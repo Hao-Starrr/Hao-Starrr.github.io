@@ -32,7 +32,7 @@ I am applying for 23 Fall graduate schools. My destination is US, and my goal is
 
 
 
-## Beside research 
+## Besides research 
 
 
 
@@ -40,14 +40,11 @@ I like playing the Mafia (The Werewolves of Millers Hollow, 狼人杀). I believ
 
 I like philosophy, science popularizing (watch videos or write my own articles). I like all "useless" knowledge, those no related to grade or work or any utilitarian effort. That is the pure happiness from learning. 
 
-There is a very interesting book I like - *[What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://en.wikipedia.org/wiki/What_If%3F_(book))*. 
+There is a very interesting book - *[What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://en.wikipedia.org/wiki/What_If%3F_(book))*. 
 
+ 
 
-
-
-
-
-
+<br />
 
 
 I am still constructing my web. If you have any suggestions, feel free to drop me an email!
