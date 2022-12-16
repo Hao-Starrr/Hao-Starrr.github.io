@@ -36,9 +36,9 @@ I am applying for 23 Fall graduate schools. My destination is US, and my goal is
 
 
 
-I like playing the Mafia (The Werewolves of Millers Hollow, 狼人杀). I believe it is not a logic game but a psychology game, a drama performing game. Logic is only one of the (seemly common-sense) ways to persuade (c-h-e-a-t) others. I enjoy exploring new things, finding phenomenon, guessing explanation, and testing. Different players, different game setting, the psychology, so many things to explore in this game. 
+I like playing the Mafia (The Werewolves of Millers Hollow, 狼人杀). I believe it is not a logic game but a psychology game, a drama performing game. Logic is only one of the ways to persuade (c-h-e-a-t) others. I enjoy exploring new things, finding phenomenon, guessing explanation, and testing. Different players, different game setting, the psychology, so many things to explore in this game. 
 
-I like philosophy, science popularizing (watch videos or write my own articles). I like all "useless" knowledge, those no related to grade or work or any utilitarian effort. That is the pure happiness from learning. 
+I like philosophy and science popularizing (watch videos or write my own articles). I an thirst for all "useless" knowledge, those no related to grade or work or any utilitarian effort. That is the pure happiness from learning. Russell is my idol. 
 
 There is a very interesting book - *[What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://en.wikipedia.org/wiki/What_If%3F_(book))*. 
 
@@ -47,4 +47,4 @@ There is a very interesting book - *[What If?: Serious Scientific Answers to Abs
 <br />
 
 
-I am still constructing my web. If you have any suggestions, feel free to drop me an email!
+I am still constructing my web. (For example, take a better photo as profile.) If you have any suggestions, feel free to drop me an email!

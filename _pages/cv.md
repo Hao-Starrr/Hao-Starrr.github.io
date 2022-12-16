@@ -101,7 +101,7 @@ June 2021 - September 2021
 
 **2021 National Engineering Practice Competition (Logistics Robot)**  
 January 2021 - June 2021  
-- Won 1st place in Hong Kong, Silver Award in the national final among 601 teams from 267 universities. The result was featured in [the website of MAE department](https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/).
+- Won **1st place** in Hong Kong, Silver Award in the national final among 601 teams from 267 universities. The result was featured in [the website of MAE department](https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/).
 - Designed and modeled the robot body, arm structure, implemented corresponding control algorithm on STM32 in C, tested and improved the repeatability, success rate from 30% to nearly 100%, time decreasing from 6min to 3min.
 - Implemented the color and pattern recognition on OpenMV. Find video [here](https://youtu.be/IHseo0RF8Oc).
 
