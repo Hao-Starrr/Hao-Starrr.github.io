@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 
 
-# Education
+## Education
 
 * **B.S.** Mechanical and Automation Engineering - The Chinese University of Hong Kong, 2019-2023
   * Overall GPA: 3.85/4.00; Major GPA: 3.95/4.00
@@ -26,7 +26,7 @@ redirect_from:
 
 <br/>
 
-# Scholarship
+## Scholarship
 
 - 2019-20, Talent Development Scholarship
   - Awarded to students who have demonstrated achievements or talent by Hong Kong Government. I received this award for being **top 0.1%** in Chinese Physics Olympiad.
@@ -58,7 +58,7 @@ redirect_from:
 <br />
 
 
-# Research experience
+## Research experience
 
 **GPU-Accelerated Mapping and 3D Scene Graph-Based Planning**  <span style="float:right;">Aug. 2022 – Present</span>  
 *Supervisor: Prof. Chen Benmei, MAE CUHK & ECE NUS*  
@@ -85,7 +85,7 @@ redirect_from:
 <br />
 
 
-# Competition and Internship
+## Competition and Internship
 
 **BlockStudio Qianzhi Technology Ltd.** - *Mechanical Engineer*  
 June 2021 - September 2021  
@@ -104,7 +104,7 @@ January 2021 - June 2021
 <br />
 
 
-# Leadership
+## Leadership
 
 **Captain of CUHK Mandarin Debate Team**  
 May 2020 - May 2021  
@@ -121,7 +121,7 @@ March 2021 - May 2021
 <br />
 
 
-# Skills
+## Skills
 
 ROS, Python, C/C++, SolidWorks …
 
