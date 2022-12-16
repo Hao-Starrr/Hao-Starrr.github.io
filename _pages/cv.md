@@ -29,16 +29,16 @@ redirect_from:
 # Scholarship
 
 - 2019-20, Talent Development Scholarship
-  - Awarded to students who have demonstrated achievements or talent by Hong Kong Government. I received this award for being top 0.1% in Chinese Physics Olympiad.  
+  - Awarded to students who have demonstrated achievements or talent by Hong Kong Government. I received this award for being **top 0.1%** in Chinese Physics Olympiad.  
 
 - 2020-21, Master's List
-  - To top 1 student only, by Wu Yee Sun College.  
+  - To **top 1 only**, by Wu Yee Sun College.  
 
 - 2019-22, Elite Scholarship
-  - Less than 1%, consecutive 3 years in 2020, 2021, 2022. By Faculty of Engineering, it is awarded to top students in ELITE program, which refer to a particular program providing substantially difficult courses.  
+  - **Less than 1%, consecutive 3 years** in 2020, 2021, 2022. By Faculty of Engineering, it is awarded to top students in ELITE program, which refer to a particular program providing substantially difficult courses.  
 
 - 2020-22, Yu To Sang Memorial Scholarship
-  - Less than 1%, consecutive 3 years in 2020, 2021, 2022. By University, it is awarded to the top student in the faculty.  
+  - **Less than 1%, consecutive 3 years** in 2020, 2021, 2022. By University, it is awarded to the top student in the faculty.  
 
 - 2020-21, Best Project Award
 - 2020-21, Innovation and Creativity Scholarship 
