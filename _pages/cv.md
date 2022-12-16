@@ -42,7 +42,6 @@ redirect_from:
 - 2020-22, Yu To Sang Memorial Scholarship
   - **Less than 1%, consecutive 3 years** in 2020, 2021, 2022. By University, it is awarded to the top student in the faculty.
 
-- 2020-21, Best Project Award
 - 2020-21, Innovation and Creativity Scholarship 
   - For 2020 summer research result.
 
