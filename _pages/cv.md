@@ -42,15 +42,13 @@ redirect_from:
 - 2020-22, Yu To Sang Memorial Scholarship
   - **Less than 1%, consecutive 3 years** in 2020, 2021, 2022. By University, it is awarded to the top student in the faculty.
 
+- 2019-21, Dean’s List (consecutive 2 years)
+
 - 2020-21, Innovation and Creativity Scholarship 
-  - For 2020 summer research result.
 
 - 2020-21, NTK Industrial Scholarship
-- 2021-22, Dahua Education Scholarship
-  - Both awarded to top students in the department by Department of MAE.
 
-- 2019-21, Dean’s List
-  - Consecutive 2 years. 10% in Faculty of Engineering.
+- 2021-22, Dahua Education Scholarship
 
 - 2021-22, Yasumoto International Exchange Scholarship
 
