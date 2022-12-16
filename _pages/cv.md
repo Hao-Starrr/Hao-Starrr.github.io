@@ -38,28 +38,31 @@ redirect_from:
 
 # Scholarship
 
-- 2019-20, Talent Development Scholarship 
-  - For being top 0.1% in Chinese Physics Olympiad.
-- 2019-20, Elite Scholarship
-- 2019-20, Best Project Award
-- 2019-20, Dean's List  
-  
-- 2020-21, Yu To Sang Memorial Scholarship (Less than 1%)
-- 2020-21, Elite Scholarship
+- 2019-20, Talent Development Scholarship
+  - Awarded to students who have demonstrated achievements or talent by Hong Kong Government. I received this award for being top 0.1% in Chinese Physics Olympiad.
+
+- 2020-21, Master's List
+  - To top 1 student only, by Wu Yee Sun College.
+
+- 2019-22, Elite Scholarship
+  - Less than 1%, consecutive 3 years in 2020, 2021, 2022. By Faculty of Engineering, it is awarded to top students in ELITE program, which refer to a particular program providing substantially difficult courses.
+
+- 2020-22, Yu To Sang Memorial Scholarship
+  - Less than 1%, consecutive 3 years in 2020, 2021, 2022. By University, it is awarded to the top student in the faculty.
+
+- 2020-21, Best Project Award
+- 2020-21, Innovation and Creativity Scholarship
+  - For 2020 summer research result.
+
 - 2020-21, NTK Industrial Scholarship
-- 2020-21, Innovation and Creativity Scholarship 
-- 2020-21, Dean's List
-- 2020-21, Master's List (To top 1 only)  
-
-- 2021-22, Yu To Sang Memorial Scholarship (Less than 1%)
-- 2021-22, Yasumoto International Exchange Scholarship
 - 2021-22, Dahua Education Scholarship
-- 2021-22, Elite Scholarship
+  - Both awarded to top students in the department by Department of MAE.
+
+- 2019-21, Dean’s List
+  - Consecutive 2 years. 10% in Faculty of Engineering.
+
+- 2021-22, Yasumoto International Exchange Scholarship
 - 2021-22, Outstanding Students Award 
-
-<br/>
-
-- 2022-23, Yu To Sang Memorial Scholarship (Less than 1%)
 
 
 <br />
@@ -69,7 +72,7 @@ redirect_from:
 
 **GPU-Accelerated Mapping and 3D Scene Graph-Based Planning**  
 *Supervisor: Prof. Chen Benmei, MAE CUHK & ECE NUS*  
-Aug. 2022 – Present
+Aug. 2022 – Present  
 
 * Working on the combination of the mapping and planning on limited onboard computational resources.
 * Collaboratively proposed to utilize the GPU-accelerated ESDFs and 3D Scene Graph for planning.
@@ -81,6 +84,7 @@ Aug. 2022 – Present
 **Certifiably Multi-Sensors Extrinsic Parameters Calibration Optimization**  
 *Supervisor: Prof. Jonathan Kelly, STARS Laboratory, UTIAS, UofT*  
 May 2022 – Oct. 2022  
+
 * Optimized trajectory alignment by SDP relaxation to calibrate the relative extrinsic parameters of the multi-camera.
 * Independently completed GN solver dealing with scale cases and derived the Lie algebra pose perturbation model.
 * Realized the linear solver proposed before as a comparative method. Tested ORB-SLAM3 for generating the raw data.
