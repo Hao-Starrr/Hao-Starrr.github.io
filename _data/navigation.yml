@@ -3,9 +3,6 @@ main:
 
   - title: "About me"
     url: /../
-
-  - title: "Pointer"
-    url: /pointer/
     
   # - title: "Publications"
   #   url: /publications/
@@ -24,6 +21,11 @@ main:
     
   - title: "CV"
     url: /cv/
+
     
   - title: "Guide"
     url: /markdown/
+
+
+  - title: "Pointer"
+    url: /pointer/

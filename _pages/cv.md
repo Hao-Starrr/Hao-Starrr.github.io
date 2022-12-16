@@ -7,20 +7,39 @@ redirect_from:
   - /resume
 ---
 
+
+
+
+
+
+
+
+
 {% include base_path %}
+
+
+
+
+
+
+
+
 
 # Education
 
 * **B.S.** Mechanical and Automation Engineering - The Chinese University of Hong Kong, 2019-2023
-  Overall GPA: 3.85/4.00 (Rank 1/128)	Major GPA: 3.95/4.00 (Rank 1/128 in consecutive 3 years)
+  * Overall GPA: 3.85/4.00 (Rank 1/128)	Major GPA: 3.95/4.00 (Rank 1/128 in consecutive 3 years)
 
-  Postgraduate Course: ENGG5402 Advanced Robotics (A), MAEG5130 Computational Mechanics (A)
+  * Postgraduate Course: ENGG5402 Advanced Robotics (A), MAEG5130 Computational Mechanics (A)
 
 * **Exchange** Robotics - University of Toronto Institute for Aerospace Studies, 2022 Winter
+  * Term GPA: 3.85/4.00 
+  * Postgraduate Course: ROB521 Mobile Robotics and Perception (A+)
 
-  Term GPA: 3.85/4.00 
-  
-  Postgraduate Course: ROB521 Mobile Robotics and Perception (A+)
+
+
+
+
 
 
 
@@ -71,6 +90,10 @@ redirect_from:
 
  
 
+ 
+
+ 
+
 
 
 # Research experience
@@ -89,6 +112,8 @@ Aug. 2022 – Present
 
 * Deployed mapping and planning functions on UAV and will prune the unnecessary function to improve the computational speed.
 
+ 
+
 
 
 **Certifiably Multi-Sensors Extrinsic Parameters Calibration Optimization**
@@ -105,6 +130,8 @@ May 2022 – Oct. 2022
 
 * Contributed to the visualization and generated diagrams in the paper.
 
+
+
  
 
 **Finite-time Stable Control for Multi-agent Systems** 
@@ -120,6 +147,10 @@ May 2020 – Sept. 2020
 * The result won the annual **Best Project Award**. I was awarded the Innovation and Creativity Scholarship. 
 
 
+
+ 
+
+ 
 
 
 
@@ -146,6 +177,10 @@ January 2021 - June 2021
 
 
 
+ 
+
+ 
+
 
 
 # Leadership
@@ -167,6 +202,10 @@ March 2021 - May 2021
 - Drafted the Tournament Regulations, resolved multiple emergencies during the 2-month competition period, and organized team registration for more than 50 universities and debate clubs all over the world.
 
 
+
+ 
+
+ 
 
 
 
