@@ -13,11 +13,7 @@ redirect_from:
 
 
 
-
-
 {% include base_path %}
-
-
 
 
 
@@ -28,21 +24,17 @@ redirect_from:
 # Education
 
 * **B.S.** Mechanical and Automation Engineering - The Chinese University of Hong Kong, 2019-2023
-  * Overall GPA: 3.85/4.00 (Rank 1/128)	Major GPA: 3.95/4.00 (Rank 1/128 in consecutive 3 years)
+  * Overall GPA: 3.85/4.00; Major GPA: 3.95/4.00
+
+  * Both ranking 1/128 in consecutive 3 years
 
   * Postgraduate Course: ENGG5402 Advanced Robotics (A), MAEG5130 Computational Mechanics (A)
-
+  
 * **Exchange** Robotics - University of Toronto Institute for Aerospace Studies, 2022 Winter
   * Term GPA: 3.85/4.00 
   * Postgraduate Course: ROB521 Mobile Robotics and Perception (A+)
 
-
-
-
-
-
-
-
+------
 
 
 
@@ -90,11 +82,9 @@ redirect_from:
 
  
 
- 
+------
 
  
-
-
 
 # Research experience
 
@@ -148,9 +138,7 @@ May 2020 – Sept. 2020
 
 
 
- 
-
- 
+------
 
 
 
@@ -177,9 +165,7 @@ January 2021 - June 2021
 
 
 
- 
-
- 
+------
 
 
 
@@ -203,9 +189,7 @@ March 2021 - May 2021
 
 
 
- 
-
- 
+------
 
 
 
