@@ -29,37 +29,29 @@ redirect_from:
 # Scholarship
 
 - 2019-20, Talent Development Scholarship
-  - Awarded to students who have demonstrated achievements or talent by Hong Kong Government. I received this award for being top 0.1% in Chinese Physics Olympiad.
-<br />
+  - Awarded to students who have demonstrated achievements or talent by Hong Kong Government. I received this award for being top 0.1% in Chinese Physics Olympiad.  
 
 - 2020-21, Master's List
   - To top 1 student only, by Wu Yee Sun College.  
-<br />
 
 - 2019-22, Elite Scholarship
   - Less than 1%, consecutive 3 years in 2020, 2021, 2022. By Faculty of Engineering, it is awarded to top students in ELITE program, which refer to a particular program providing substantially difficult courses.  
-<br />
 
 - 2020-22, Yu To Sang Memorial Scholarship
   - Less than 1%, consecutive 3 years in 2020, 2021, 2022. By University, it is awarded to the top student in the faculty.  
-<br />
 
 - 2020-21, Best Project Award
 - 2020-21, Innovation and Creativity Scholarship 
   - For 2020 summer research result.  
-<br />
 
 - 2020-21, NTK Industrial Scholarship
 - 2021-22, Dahua Education Scholarship
   - Both awarded to top students in the department by Department of MAE.  
-<br />
 
 - 2019-21, Dean’s List
   - Consecutive 2 years. 10% in Faculty of Engineering.  
-<br />
 
 - 2021-22, Yasumoto International Exchange Scholarship  
-<br />
 
 - 2021-22, Outstanding Students Award 
 
@@ -67,7 +59,7 @@ redirect_from:
 
 # Research experience
 
-**GPU-Accelerated Mapping and 3D Scene Graph-Based Planning**  <span style="float:right;">Aug. 2022 – Present</span>
+**GPU-Accelerated Mapping and 3D Scene Graph-Based Planning**  <span style="float:right;">Aug. 2022 – Present</span>  
 *Supervisor: Prof. Chen Benmei, MAE CUHK & ECE NUS*  
 
 * Working on the combination of the mapping and planning on limited onboard computational resources.
@@ -77,7 +69,7 @@ redirect_from:
 
 <br />
 
-**Certifiably Multi-Sensors Extrinsic Parameters Calibration Optimization**  <span style="float:right;">May 2022 – Oct. 2022</span>
+**Certifiably Multi-Sensors Extrinsic Parameters Calibration Optimization**  <span style="float:right;">May 2022 – Oct. 2022</span>  
 *Supervisor: Prof. Jonathan Kelly, STARS Laboratory, UTIAS, UofT*  
 
 * Optimized trajectory alignment by SDP relaxation to calibrate the relative extrinsic parameters of the multi-camera.
@@ -87,7 +79,7 @@ redirect_from:
 
 <br />
 
-**Finite-time Stable Control for Multi-agent Systems**  <span style="float:right;">May 2020 – Sept. 2020  </span>
+**Finite-time Stable Control for Multi-agent Systems**  <span style="float:right;">May 2020 – Sept. 2020  </span>  
 *Supervisor: Dr. Han Dongkun, MAE, CUHK*  
 
 * Designed UAV control algorithm. Redesigned the barrier function and control algorithm, and found a new Lyapunov function to satisfy the time convergence requirement and stability requirement simultaneously.
