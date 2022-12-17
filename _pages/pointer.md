@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Pointer"
 permalink: /pointer/
+title: "Pointer"
+sitemap: true
 author_profile: true
-redirect_from:
-  - /pointer/
-  - /pointer.html
 ---
 
 
