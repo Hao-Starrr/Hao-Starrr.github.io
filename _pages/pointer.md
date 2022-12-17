@@ -7,7 +7,6 @@ author_profile: true
 ---
 
 
-![](../images/front_face.jpg)
 
 
 
@@ -15,30 +14,28 @@ author_profile: true
 Pointer is a striped Tabby cat (矮脚美短加白). Her birthday is April 16 2022 and we knew each other at June 16. She likes purple bags. 
 
 
-## Hi
-![](../images/hi.jpg)
+<img src=../images/front_face.jpg width=50% />
 
+
+## Hi
+<img src=../images/hi.jpg width=50% />
 
 
 ## Shocked
-![](../images/shocked.jpg)
-
+<img src=../images/shocked.jpg width=50% />
 
 
 ## Shout
-![](../images/shout.jpg)
-
+<img src=../images/shout.jpg width=50% />
 
 
 ## Stretch
-![](../images/stretch.jpg)
-
+<img src=../images/stretch.jpg width=50% />
 
 
 ## Sleep
-![](../images/sleep.jpg)
-
+<img src=../images/sleep.jpg width=50% />
 
 
 ## Give me five
-![](../images/giveme5.jpg)
+<img src=../images/giveme5.jpg width=50% />
