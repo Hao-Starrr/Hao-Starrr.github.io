@@ -3,6 +3,7 @@ layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+sitemap: true
 redirect_from:
   - /resume
 ---
