@@ -7,6 +7,26 @@ redirect_from:
   - /markdown.html
 ---
 
+
+## Some notes about the markdown (kramdown)
+
+### For image size
+`![](../xxx.jpg =250x250)`
+not support
+
+`![](../xxx.jpg){:height="40%" width="40%"}`
+support
+
+`<img src="../xxx.jpg" width=400 />`
+support
+
+### For space line
+new line in markdown - nothing happen
+two space in last line - in paragraph, new line
+a space line - new paragraph, new line
+
+
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -54,23 +74,23 @@ Single line blockquote:
 
 ### Table 1
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Entry         | Item |                                     |
+| ------------- | ---- | ----------------------------------- |
+| [John Doe](#) | 2016 | Description of the item in the list |
+| [Jane Doe](#) | 2019 | Description of the item in the list |
+| [Doe Doe](#)  | 2022 | Description of the item in the list |
 
 ### Table 2
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+| Header1                       | Header2 | Header3 |
+| :---------------------------- | :-----: | ------: |
+| cell1                         |  cell2  |   cell3 |
+| cell4                         |  cell5  |   cell6 |
+| ----------------------------- |
+| cell1                         |  cell2  |   cell3 |
+| cell4                         |  cell5  |   cell6 |
+| ============================= |
+| Foot1                         |  Foot2  |   Foot3 |
 
 ## Definition Lists
 
