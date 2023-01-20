@@ -17,8 +17,8 @@ redirect_from:
 
 
 * **B.Eng.** Mechanical and Automation Engineering - The Chinese University of Hong Kong, 2019-2023
-  * Overall GPA: 3.85/4.00; Major GPA: 3.95/4.00
   * **Ranking 1/128** in consecutive 3 years
+  * Overall GPA: 3.84/4.00; Major GPA: 3.96/4.00
   * Postgraduate Course: ENGG5402 Advanced Robotics (A), MAEG5130 Computational Mechanics (A)  
 <br />
 
@@ -38,10 +38,10 @@ redirect_from:
   - To **top 1 only**, by Wu Yee Sun College.
 
 - 2019-22, Elite Scholarship
-  - **Less than 1%, consecutive 3 years** in 2020, 2021, 2022. By Faculty of Engineering, it is awarded to top students in ELITE program, which refer to a particular program providing substantially difficult courses.
+  - **Less than 1%, consecutive 3 years** in 2020, 2021, 2022. To excellent students in ELITE program only, award to their extra effort and ability showed in specially-offered more difficult and advanced courses (ESTR). The requirement can be found [here](https://www.erg.cuhk.edu.hk/erg/Elite).
 
 - 2020-22, Yu To Sang Memorial Scholarship
-  - **Less than 1%, consecutive 3 years** in 2020, 2021, 2022. By University, it is awarded to the top student in the faculty.
+  - **Less than 1%, consecutive 3 years** in 2020, 2021, 2022. Nominated by Faculty and awarded by University.
 
 - 2019-21, Dean’s List (consecutive 2 years)
 
@@ -54,6 +54,8 @@ redirect_from:
 - 2021-22, Yasumoto International Exchange Scholarship
 
 - 2021-22, Outstanding Students Award 
+
+- Total of 15 awards in 3 years.
 
 <br />
 
@@ -127,5 +129,5 @@ March 2021 - May 2021
 ## Skills
 
 
-ROS, Python, C/C++, SolidWorks …
+ROS, MATLAB, Python, C/C++, SolidWorks, CAD, LaTeX, Markdown …
 
