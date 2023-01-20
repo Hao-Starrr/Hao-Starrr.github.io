@@ -16,7 +16,7 @@ redirect_from:
 ## Education
 
 
-* **B.S.** Mechanical and Automation Engineering - The Chinese University of Hong Kong, 2019-2023
+* **B.Eng.** Mechanical and Automation Engineering - The Chinese University of Hong Kong, 2019-2023
   * Overall GPA: 3.85/4.00; Major GPA: 3.95/4.00
   * **Ranking 1/128** in consecutive 3 years
   * Postgraduate Course: ENGG5402 Advanced Robotics (A), MAEG5130 Computational Mechanics (A)  
