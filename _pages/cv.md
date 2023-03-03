@@ -35,7 +35,7 @@ redirect_from:
   - Awarded to students who have demonstrated achievements or talent by Hong Kong Government. I received this award for being **top 0.1%** in Chinese Physics Olympiad.
 
 - 2020-21, Master's List
-  - To **top 1 only**, by Wu Yee Sun College.
+  - To top 1 only, by Wu Yee Sun College.
 
 - 2019-22, Elite Scholarship
   - **Less than 1%, consecutive 3 years** in 2020, 2021, 2022. To excellent students in ELITE program only, award to their extra effort and ability showed in specially-offered more difficult and advanced courses (ESTR). The requirement can be found [here](https://www.erg.cuhk.edu.hk/erg/Elite).
@@ -111,7 +111,7 @@ January 2021 - June 2021
 ## Leadership
 
 
-**Captain of CUHK Mandarin Debate Team**  
+**Manager of CUHK Mandarin Debate Team**  
 May 2020 - May 2021  
 - Coordinated 120+ members for weekly training. Handled logistics for 10+ international competition. Arranged and hosted over 100 mock competitions in one year.
 - Organized two rounds recruitment interviews with 121 candidates. Coordinated people, time, documentation and selection.
