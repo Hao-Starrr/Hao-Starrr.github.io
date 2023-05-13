@@ -25,7 +25,7 @@ redirect_from:
 
 I am a final-year undergraduate at CUHK, majoring in Mechanical and Automation Engineering. My research interest is robotics, especially applying optimization in calibration, planning, SLAM, etc.. I visited University of Toronto as an exchange student for a semester in my third year. In the following summer, I was at [UTIAS](https://www.utias.utoronto.ca/) Lab researching certifiable multi-sensor calibration optimization, supervised by [Prof. Jonathan Kelly](http://stars.utias.utoronto.ca/~jkelly/). Currently, I am working on my final year project research about GPU accelerated mapping and planning under the supervision of [Prof. Chen Benmei](http://www.mae.cuhk.edu.hk/~usr/).
 
-I am applying for 23 Fall graduate schools. My destination is US, and my goal is to apply certifiable optimization algorithms in corridor based planning method to improve the robustness and safety. After that, I plan to enter the industry to convert the research to products. 
+(Update) I received the offer to UPenn, MEAM master program. 
 
 
 
@@ -48,4 +48,3 @@ There is a very interesting book - *[What If?: Serious Scientific Answers to Abs
 <br />
 
 
-I am still constructing my web. (For example, take a better photo as profile.) If you have any suggestions, feel free to drop me an email!

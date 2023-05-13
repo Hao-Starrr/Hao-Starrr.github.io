@@ -14,7 +14,8 @@ redirect_from:
 
 
 ## Education
-
+* (in-coming) **MSE** Mechanical Engineering and Applied Mechanics - University of Pennsylvania, 2023-2025
+<br />
 
 * **B.Eng.** Mechanical and Automation Engineering - The Chinese University of Hong Kong, 2019-2023
   * Overall GPA: 3.84/4.00; ranking 1/128
