@@ -14,7 +14,7 @@ redirect_from:
 
 
 ## Education
-* (in-coming) **MSE** Mechanical Engineering and Applied Mechanics - University of Pennsylvania, 2023-2025
+* (in-coming) **MSE** Robotics track at MEAM - University of Pennsylvania, 2023-2025
 <br />
 
 * **B.Eng.** Mechanical and Automation Engineering - The Chinese University of Hong Kong, 2019-2023
