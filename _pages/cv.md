@@ -17,7 +17,7 @@ redirect_from:
 * (in-coming) **MSE** Robotics track at MEAM - University of Pennsylvania, 2023-2025
 <br />
 
-* **B.Eng.** Mechanical and Automation Engineering - The Chinese University of Hong Kong, 2019-2023
+* **BEng** Mechanical and Automation Engineering - The Chinese University of Hong Kong, 2019-2023
   * Overall GPA: 3.84/4.00; ranking 1/128
   * Major GPA: 3.96/4.00; ranking 1/128
   * Postgraduate Course: ENGG5402 Advanced Robotics (A), MAEG5130 Computational Mechanics (A)  
