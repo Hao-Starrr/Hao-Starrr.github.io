@@ -11,39 +11,19 @@ redirect_from:
 
 
 
-
-
-
-
-
-
-
-
 ## About me
-
-
-
-I am a final-year undergraduate at CUHK, majoring in Mechanical and Automation Engineering. My research interest is robotics, especially applying optimization in calibration, planning, SLAM, etc.. I visited University of Toronto as an exchange student for a semester in my third year. In the following summer, I was at [UTIAS](https://www.utias.utoronto.ca/) Lab researching certifiable multi-sensor calibration optimization, supervised by [Prof. Jonathan Kelly](http://stars.utias.utoronto.ca/~jkelly/). Currently, I am working on my final year project research about GPU accelerated mapping and planning under the supervision of [Prof. Chen Benmei](http://www.mae.cuhk.edu.hk/~usr/).
-
-(Update) I received the offer to UPenn, MEAM master program. 
-
-
-
-
-
+I am an incoming master's student at the University of Pennsylvania (Upenn), pursuing my passion for robotics with a focus on planning. I completed my bachelor's degree in Mechanical and Automation Engineering at The Chinese University of Hong Kong (CUHK). During my third year, I had the opportunity to study abroad at the University of Toronto as an exchange student for a semester. In the subsequent summer, I conducted research at the UTIAS Lab under the guidance of Prof. Jonathan Kelly, investigating certifiable multi-sensor calibration optimization. Additionally, I worked on my final year project on MAV Topological Sparse Graph Generation, supervised by Prof. Chen Benmei.
 
 
 ## Besides research 
 
+Apart from my academic pursuits, I have diverse interests and hobbies. One of my favorite activities is playing Mafia (The Werewolves of Millers Hollow, 狼人杀). I view it not merely as a logic game but as a psychological and dramatic performance. Logic is just one avenue to persuade (or "influence", or perhaps, "c-h-e-a-t") others; there are many other aspects to explore within the game, such as different players, game settings, and the intricacies of psychology.
 
-
-I like playing the Mafia (The Werewolves of Millers Hollow, 狼人杀). I believe it is not a logic game but a psychology game, a drama performing game. Logic is only one of the ways to persuade (c-h-e-a-t) others. I enjoy exploring new things, finding phenomenon, guessing explanation, and testing. Different players, different game setting, the psychology, there are so many things to explore in this game. 
-
-I like philosophy and science popularizing (watch videos or write my own articles). I am thirst for all "useless" knowledge, those no related to grade or work or any utilitarian effort. That is the pure happiness from learning. Russell is my idol. 
+I also have a keen interest in philosophy and the history of science, which I enjoy exploring through videos and blog writing. I have an insatiable thirst for "useless" knowledge—knowledge that may not directly relate to grades, work, or utilitarian efforts—because learning purely for the sake of learning brings me immense happiness. Bertrand Russell is my idol in this regard.
 
 There is a very interesting book - *[What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://en.wikipedia.org/wiki/What_If%3F_(book))*. 
 
- 
+
 
 <br />
 
