@@ -8,126 +8,121 @@ redirect_from:
   - /resume
 ---
 
-
-
 {% include base_path %}
 
 
 ## Education
-* (in-coming) **MSE** Robotics track at MEAM - University of Pennsylvania, 2023-2025
+
+* University of Pennsylvania, 2023-2025 (Expected) 
+  * Master of Engineering in MEAM Robotics track
 <br />
 
-* **BEng** Mechanical and Automation Engineering - The Chinese University of Hong Kong, 2019-2023
-  * Overall GPA: 3.84/4.00; ranking 1/128
-  * Major GPA: 3.96/4.00; ranking 1/128
-  * Postgraduate Course: ENGG5402 Advanced Robotics (A), MAEG5130 Computational Mechanics (A)  
+* The Chinese University of Hong Kong, 2019-2023
+  * Bachelor of Engineering in Mechanical and Automation Engineering
+  * Overall GPA: 3.81/4.00, Major GPA: 3.94/4.00, Rank 1/128
+  * Elite Scholarship, Yu To Sang Memorial Scholarship (top 1%, both awarded for three consecutive years) and 9 other scholarships.
 <br />
 
-* **Exchange** Robotics - University of Toronto Institute for Aerospace Studies, 2022 Winter
-  * Term GPA: 3.85/4.00 
-  * Postgraduate Course: ROB521 Mobile Robotics and Perception (A+)
+* University of Toronto Institute for Aerospace Studies, 2022 Winter
+  * Exchange Program in Robotics, Term GPA: 3.85/4.00 
+  * A+ Courses: Mobile Robot and Perception, Introduction to AI, Advanced Robotics, and 15 others at CUHK. 
 
 <br/>
 
-## Scholarship
 
 
-- 2019-20, Talent Development Scholarship
-  - Awarded to students who have demonstrated achievements or talent by Hong Kong Government. I received this award for being **top 0.1%** in Chinese Physics Olympiad.
+## Working experience
 
-- 2020-21, Master's List
-  - To top 1 only, by Wu Yee Sun College.
+**MAV Topological Sparse Graph Generation and Volumetric Map Saving and Loading**
+<span style="float:right;">Oct. 2022 – Mar. 2023</span>  
+*Research Supervisor: Prof. Chen Benmei, MAE CUHK & ECE NUS*  
+* Generated topological sparse graphs for pre-build maps by integrating ESDF-Mapping and Voxblox.  
+* Implemented map saving and loading functions by serialization to self-defined data structure.   
+* Built the simulation environment in Gazabo and conducted the initial test.  
+* Deployed the global planner on MAV and ran it successfully using pre-built world maps without on-board sensors. 
 
-- 2019-22, Elite Scholarship
-  - Less than 1%, consecutive 3 years in 2020, 2021, 2022. To excellent students in ELITE program only, award to their extra effort and ability showed in specially-offered more difficult and advanced courses (ESTR). The requirement can be found [here](https://www.erg.cuhk.edu.hk/erg/Elite).
+<br />
 
-- 2020-22, Yu To Sang Memorial Scholarship
-  - Less than 1%, consecutive 3 years in 2020, 2021, 2022. Nominated by Faculty for excellent academic performance.
+**Certifiably Multi-Sensors Extrinsic Parameters Calibration Optimization**
+<span style="float:right;">May 2022 – Aug. 2022</span>  
+*Research Supervisor: Prof. Jonathan Kelly, STARS Laboratory, UTIAS, UofT*  
+* Implemented trajectory alignment algorithm by SDP relaxation to calibrate the extrinsic parameters of multi-camera systems. 
+* Developed a GN solver to handle scale cases and a linear solver as a comparative method. 
+* Innovatively derived the Lie algebra pose perturbation model by rotation matrix.
+* Visualized the optimization results of sensor poses and generated diagrams in potential publication.
+<br />
 
-- 2019-21, Dean’s List (consecutive 2 years)
+**BlockStudio Qianzhi Technology Ltd.**
+<span style="float:right;">June 2021 – Sept. 2021</span>  
+*Mechanical Engineer Internship*
+* Designed and built the three-stage differential conveyor belt plan and vibrating plate to deliver and separate toy blocks.
+* Intergraded and tested the computer vision algorithm for blocks counting. 
+* Independently designed the blocks assembly line using SolidWorks and defined the delivery plan and process. 
+* Investigated and evaluated feasibility of automated warehousing with the robot grasping scheme.
 
-- 2020-21, Innovation and Creativity Scholarship 
+<br />
 
-- 2020-21, NTK Industrial Scholarship
-
-- 2021-22, Dahua Education Scholarship
-
-- 2021-22, Yasumoto International Exchange Scholarship
-
-- 2021-22, Outstanding Students Award 
-
+**Finite-time Stable Control for Multi-agent Systems**
+<span style="float:right;">May 2020 – Aug. 2020</span>  
+*Research Supervisor: Dr. Han Dongkun, MAE, CUHK*  
+* Redesigned the barrier function and control algorithm and achieved the time convergence and stability requirement.
+* Simulated the position and speed of the UAVs by MATLAB and visualized the results through video. 
+* Received the annual Best Project Award as team achievement, individually received Innovation and Creativity Scholarship.  
 
 <br />
 
 
-## Research experience
-
-
-**GPU-Accelerated Mapping and 3D Scene Graph-Based Planning**  <span style="float:right;">Aug. 2022 – Present</span>  
-*Supervisor: Prof. Chen Benmei, MAE CUHK & ECE NUS*  
-* Working on the combination of the mapping and planning on limited onboard computational resources.
-* Collaboratively proposed to utilize the GPU-accelerated ESDFs and 3D Scene Graph for planning.
-* Built up the simulation environment on ROS and initially tested the idea’s feasibility.
-* Deployed mapping and planning functions on UAV and will prune the unnecessary function to improve the computational speed.
-<br />
-
-**Certifiably Multi-Sensors Extrinsic Parameters Calibration Optimization**  <span style="float:right;">May 2022 – Oct. 2022</span>  
-*Supervisor: Prof. Jonathan Kelly, STARS Laboratory, UTIAS, UofT*  
-* Optimized trajectory alignment by SDP relaxation to calibrate the relative extrinsic parameters of the multi-camera.
-* Independently completed GN solver dealing with scale cases and derived the Lie algebra pose perturbation model.
-* Realized the linear solver proposed before as a comparative method. Tested ORB-SLAM3 for generating the raw data.
-* Contributed to the visualization and generated diagrams in the paper.
-<br />
-
-**Finite-time Stable Control for Multi-agent Systems**  <span style="float:right;">May 2020 – Sept. 2020  </span>  
-*Supervisor: Dr. Han Dongkun, MAE, CUHK*  
-* Designed UAV control algorithm. Redesigned the barrier function and control algorithm, and found a new Lyapunov function to satisfy the time convergence requirement and stability requirement simultaneously.
-* Simulated the position and speed of the UAVs by MATLAB at each timestep and generated a video to visualize the results. 
-* The result won the annual **Best Project Award**. I was awarded the Innovation and Creativity Scholarship. 
-
-<br />
-
-
-## Competition and Internship
-
-
-**BlockStudio Qianzhi Technology Ltd.** - *Mechanical Engineer*  
-June 2021 - September 2021  
-- Responsible for designing and optimization of the mechanical devices to deliver and separate toy blocks.
-- Contributed to the designing and testing of the three-stage differential conveyor belt plan and vibrating plate plan.
-- Independently designed the toy blocks assembly line by SolidWorks and designed the delivery plan.
-- Investigated the feasibility of the robotic arm automatic grasping scheme, which has been implemented and used.
-<br />
+## Competition
 
 **2021 National Engineering Practice Competition (Logistics Robot)**  
 January 2021 - June 2021  
-- Won **1st place** in Hong Kong, Silver Award in the national final among 601 teams from 267 universities. The result was featured in [the website of MAE department](https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/).
-- Designed and modeled the robot body, arm structure, implemented corresponding control algorithm on STM32 in C, tested and improved the repeatability, success rate from 30% to nearly 100%, time decreasing from 6min to 3min.
-- Implemented the color and pattern recognition on OpenMV. Find video [here](https://youtu.be/IHseo0RF8Oc).
+
+* Designed and modeled the structure of a logistics robot, fabricated non-standard parts using laser cutting and 3D printing.
+* Implemented vision object detection using OpenMV, achieving a success rate of nearly 100%.
+* Optimized the motion logic by integrating additional tracking sensors and improved stability through speed smoothing. 
+* Won 1st place in Hong Kong, and Silver Award in the national final among 601 teams from 267 universities. The result was featured in [the website of MAE department](https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/).
+* Find video [here](https://youtu.be/IHseo0RF8Oc).
 
 <br />
 
 
-## Leadership
+## Leadership and Community Service
 
+**Co-Initiator of WEHEARD Program**  
+Jan. 2023 - Apr. 2023
+* Conducted in-depth research on the employment conditions of hearing-impaired persons (HIP) in the food delivery industry in Hong Kong.
+* Collaborated with NGOs, restaurants, and HIP deliverers to gather insights and identify challenges faced by HIPs.
+* Developed a comprehensive First-stage Report, highlighting the employment situation, difficulties with phone communication, and unfair policies in the industry.
+* Created a documentary showcasing the daily struggles of an HIP deliverer and uploaded it on YouTube, generating over 350 views and positive feedback.
+* Find the link [here](https://weheard.github.io/).
+
+<br />
 
 **Manager of CUHK Mandarin Debate Team**  
 May 2020 - May 2021  
-- Coordinated 120+ members for weekly training. Handled logistics for 10+ international competition. Arranged and hosted over 100 mock competitions in one year.
-- Organized two rounds recruitment interviews with 121 candidates. Coordinated people, time, documentation and selection.
+* Coordinated a team of 120+ members for weekly training sessions and managed logistics for 10+ international competitions. Organized and hosted over 100 mock competitions within one year.
+* Conducted two rounds of recruitment interviews with 121 candidates, overseeing people, time management, documentation, and selection processes.
+
 <br />
 
-**Founder of 2021 Exemplar Tournament Freshman Mandarin Debate Competition**  
+**Co-Founder of 2021 Exemplar Tournament Freshman Mandarin Debate Competition**  
 March 2021 - May 2021  
-- Founded the "Exemplar Tournament" Freshman Mandarin Debate Competition as the first international Mandarin debate competition initiated by CUHK. The competition received more than 14,000 HKD as funding from university. The results of the competition was widely advertised on the CUHK Office of Student Affairs homepage.
-- Drafted the Tournament Regulations, resolved multiple emergencies during the 2-month competition period, and organized team registration for more than 50 universities and debate clubs all over the world.
-
+* Initiated and founded the "Exemplar Tournament" Freshman Mandarin Debate Competition, the first international Mandarin debate competition at CUHK. Secured funding of more than 14,000 HKD from the university. Promoted the competition extensively on the CUHK Office of Student Affairs homepage.
+* Drafted the Tournament Regulations, effectively handled multiple emergencies throughout the two-month competition period, and facilitated team registration for more than 50 universities and debate clubs worldwide.
 
 <br />
 
 
 ## Skills
 
+C/C++: Implemented small projects on OOP and familiar with STL and containers.
 
-ROS, MATLAB, Python, C/C++, SolidWorks, CAD, LaTeX, Markdown …
+Python: Develop scripts for task automation and optimization algorithms.
 
+MATLAB: Implemented algorithms, simulations, visualization, and basic Simulink operations.
+
+ROS: Experienced in working with ROS and proficient in tools such as Gazebo, RViz, and RQt.
+
+Other skills such as SolidWorks, Markdown. 
+
+Basic hand-on knowlege with Ardunio, 3D printing, soldering, PLC, laser cutting, and metal processing.
