@@ -31,11 +31,12 @@ redirect_from:
 
 
 
-## Working experience
+## Research and Work Experience
 
-**MAV Topological Sparse Graph Generation and Volumetric Map Saving and Loading**
+**Unmanned Systems Research Group, CUHK T Stone Robotics Institute**
 <span style="float:right;">Oct. 2022 – Mar. 2023</span>  
-*Research Supervisor: Prof. Chen Benmei, MAE CUHK & ECE NUS*  
+*Robotics Researcher*
+<span style="float:right;">*Hong Kong*</span>  
 * Generated topological sparse graphs for pre-build maps by integrating ESDF-Mapping and Voxblox.  
 * Implemented map saving and loading functions by serialization to self-defined data structure.   
 * Built the simulation environment in Gazabo and conducted the initial test.  
@@ -43,9 +44,10 @@ redirect_from:
 
 <br />
 
-**Certifiably Multi-Sensors Extrinsic Parameters Calibration Optimization**
+**University of Toronto Institute for Aerospace Studies**
 <span style="float:right;">May 2022 – Aug. 2022</span>  
-*Research Supervisor: Prof. Jonathan Kelly, STARS Laboratory, UTIAS, UofT*  
+*Undergraduate Research Assistant*
+<span style="float:right;">*Toronto, ON*</span>  
 * Implemented trajectory alignment algorithm by SDP relaxation to calibrate the extrinsic parameters of multi-camera systems. 
 * Developed a GN solver to handle scale cases and a linear solver as a comparative method. 
 * Innovatively derived the Lie algebra pose perturbation model by rotation matrix.
@@ -55,6 +57,7 @@ redirect_from:
 **BlockStudio Qianzhi Technology Ltd.**
 <span style="float:right;">June 2021 – Sept. 2021</span>  
 *Mechanical Engineer Internship*
+<span style="float:right;">*Shenzhen, China*</span>  
 * Designed and built the three-stage differential conveyor belt plan and vibrating plate to deliver and separate toy blocks.
 * Intergraded and tested the computer vision algorithm for blocks counting. 
 * Independently designed the blocks assembly line using SolidWorks and defined the delivery plan and process. 
@@ -62,10 +65,11 @@ redirect_from:
 
 <br />
 
-**Finite-time Stable Control for Multi-agent Systems**
+**Department of Mechanical and Automation Engineering, CUHK**
 <span style="float:right;">May 2020 – Aug. 2020</span>  
-*Research Supervisor: Dr. Han Dongkun, MAE, CUHK*  
-* Redesigned the barrier function and control algorithm and achieved the time convergence and stability requirement.
+*Undergraduate Research Assistant*
+<span style="float:right;">*Hong Kong*</span>  
+* Redesigned the barrier function and UAV control algorithm and achieved the time convergence and stability requirement.
 * Simulated the position and speed of the UAVs by MATLAB and visualized the results through video. 
 * Received the annual Best Project Award as team achievement, individually received Innovation and Creativity Scholarship.  
 
