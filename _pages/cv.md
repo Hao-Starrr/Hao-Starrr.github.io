@@ -52,6 +52,7 @@ redirect_from:
 * Developed a GN solver to handle scale cases and a linear solver as a comparative method. 
 * Innovatively derived the Lie algebra pose perturbation model by rotation matrix.
 * Visualized the optimization results of sensor poses and generated diagrams in potential publication.
+
 <br />
 
 **BlockStudio Qianzhi Technology Ltd.**
