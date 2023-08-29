@@ -33,9 +33,9 @@ redirect_from:
 
 ## Research and Work Experience
 
-**Unmanned Systems Research Group, CUHK T Stone Robotics Institute**
+**CUHK T Stone Robotics Institute, Unmanned Systems Research Group**
 <span style="float:right;">Oct. 2022 – Mar. 2023</span>  
-*Robotics Researcher*
+*Undergraduate Research Assistant*
 <span style="float:right;">*Hong Kong*</span>  
 * Generated topological sparse graphs for pre-build maps by integrating ESDF-Mapping and Voxblox.  
 * Implemented map saving and loading functions by serialization to self-defined data structure.   
@@ -57,7 +57,7 @@ redirect_from:
 
 **BlockStudio Qianzhi Technology Ltd.**
 <span style="float:right;">June 2021 – Sept. 2021</span>  
-*Mechanical Engineer Internship*
+*Mechanical Engineer Intern*
 <span style="float:right;">*Shenzhen, China*</span>  
 * Designed and built the three-stage differential conveyor belt plan and vibrating plate to deliver and separate toy blocks.
 * Intergraded and tested the computer vision algorithm for blocks counting. 
