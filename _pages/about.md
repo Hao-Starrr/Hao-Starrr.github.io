@@ -25,15 +25,14 @@ I fell in love with Poker after learning probability and statistics. This game i
 
 ### Curiosity
 
-I have an insatiable thirst for "useless" knowledge—knowledge that may not directly relate to grades, work, or utilitarian efforts, such as philosophy and the history of science—because learning purely for the sake of learning brings me immense happiness. I enjoy studying the underlying logic and mechanisms behind complex systems. I tried to figure it out in the graduate school application and I concluded it into advices for future applicants. Click [here](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer) to see it. 
+I have an insatiable thirst for "useless" knowledge—knowledge that may not directly relate to grades, work, or utilitarian efforts, such as philosophy and the history of science—because learning purely for the sake of learning brings me immense happiness. I enjoy studying the underlying logic and mechanisms behind complex systems. I tried to figure it out in the graduate school application and I concluded it into advices for future applicants at CUHK. See [Graduate Application for CUHKer](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer). 
 
 That might be called curiosity. Bertrand Russell is my idol in this regard.
-
-A very funny book I will recommend to you - *[What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://en.wikipedia.org/wiki/What_If%3F_(book))*. 
 
 [Here](https://hao-starrr.github.io/booklist/) is my booklist about philosophy, economics, psychology, science, fictions, and so on. 
 
 ### Self-learning
+
 I enjoy self-learning more than taking lectures in school. Actually, I took less than 20% lectures in the third and fourth year of undergraduate (for the courses don't take attendance) but still retain a good grade. Bilibili and YouTube are always great teachers.  
 
 
