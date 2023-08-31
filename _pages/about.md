@@ -29,14 +29,13 @@ I have an insatiable thirst for "useless" knowledge—knowledge that may not dir
 
 That might be called curiosity. Bertrand Russell is my idol in this regard.
 
-There is a very interesting book - *[What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://en.wikipedia.org/wiki/What_If%3F_(book))*. 
+A very funny book I will recommend to you - *[What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://en.wikipedia.org/wiki/What_If%3F_(book))*. 
 
-Here is my booklist about philosophy, economics, psychology, science, fictions, and so on. 
+[Here](https://hao-starrr.github.io/booklist/) is my booklist about philosophy, economics, psychology, science, fictions, and so on. 
 
 ### Self-learning
 I enjoy self-learning more than taking lectures in school. Actually, I took less than 20% lectures in the third and fourth year of undergraduate (for the courses don't take attendance) but still retain a good grade. Bilibili and YouTube are always great teachers.  
 
-This is my open-source courses list that I will recommend to everyone. 
 
 ### Communication
 

@@ -9,9 +9,6 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
-
-  - title: "Booklist"
-    url: /booklist/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -22,6 +19,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Booklist"
+    url: /booklist/    
+
   # - title: "Guide"
   #   url: /markdown/
 
