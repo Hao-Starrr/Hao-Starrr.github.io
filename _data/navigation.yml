@@ -10,8 +10,8 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Booklist"
+    url: /booklist/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
