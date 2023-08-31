@@ -25,9 +25,7 @@ I fell in love with Poker after learning probability and statistics. This game i
 
 ### Curiosity
 
-I have an insatiable thirst for "useless" knowledge—knowledge that may not directly relate to grades, work, or utilitarian efforts, such as philosophy and the history of science—because learning purely for the sake of learning brings me immense happiness. I enjoy studying the underlying logic and mechanisms behind complex systems. I tried to figure it out in the graduate school application and I concluded it into advices for future applicants at CUHK. See [Graduate Application for CUHKer](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer). 
-
-That might be called curiosity. Bertrand Russell is my idol in this regard.
+I have an insatiable thirst for "useless" knowledge—knowledge that may not directly relate to grades, work, or utilitarian efforts, such as philosophy and the history of science—because learning purely for the sake of learning brings me immense happiness. That might be called curiosity. Bertrand Russell is my idol in this regard. I enjoy studying the underlying logic and mechanisms behind complex systems. I tried to figure it out in the graduate school application and I concluded it into advices for future applicants at CUHK. See [Graduate Application for CUHKer](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer). 
 
 [Here](https://hao-starrr.github.io/booklist/) is my booklist about philosophy, economics, psychology, science, fictions, and so on. 
 
