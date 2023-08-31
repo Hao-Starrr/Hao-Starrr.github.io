@@ -15,6 +15,8 @@ In primary and middle school education, reading books often signifies engaging w
 
 The sequence of books is unrelated to my evaluations and comments.
 
+------------
+
 《极简欧洲史》约翰•赫斯特
 (*The Shortest History of Europe* by John Hirst)
 
@@ -115,6 +117,8 @@ The sequence of books is unrelated to my evaluations and comments.
 
 *Darwinian Aesthetics: Sexual selection and the biology of beauty* by Karl Grammer et al.
 
+*1984* by George Orwell
+
 《我的二本学生》黄灯
 
 《悖论研究》陈波
@@ -131,3 +135,5 @@ The sequence of books is unrelated to my evaluations and comments.
 
 ---------------------
 (Updated to 2022)
+
+Many of these books are ones I read many years ago, and the majority of the details within them have faded from memory. If the books I've read are forgotten, what's the meaning of reading? I believe it lies in the initial impact of "knowing" for the first time, in the sudden flash of insight when recalling a certain viewpoint years later, and in the shaping of one's perspective on the world as knowledge flows through the mind, just like water flowing through pipes and taking away stains.
