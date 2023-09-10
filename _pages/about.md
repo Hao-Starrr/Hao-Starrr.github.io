@@ -25,7 +25,7 @@ I fell in love with Poker after learning probability and statistics. This game i
 
 ### Curiosity
 
-I have an insatiable thirst for "useless" knowledge—knowledge that may not directly relate to grades, work, or utilitarian efforts, such as philosophy and the history of science—because learning purely for the sake of learning brings me immense happiness. That might be called curiosity. Bertrand Russell is my idol in this regard. I enjoy studying the underlying logic and mechanisms behind complex systems. I tried to figure it out in the graduate school application and I concluded it into advices for future applicants at CUHK. See [Graduate Application for CUHKer](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer). 
+I have an insatiable thirst for "useless" knowledge—knowledge that may not directly relate to grades, work, or utilitarian efforts, such as philosophy and the history of science—because learning purely for the sake of learning brings me immense happiness. That might be called curiosity. Bertrand Russell is my idol in this regard. I enjoy studying the underlying logic and mechanisms behind complex systems and explain them in a easy way. I tried to figure it out in the graduate school application and I concluded it into advices for future applicants at CUHK. See [Graduate Application for CUHKer](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer). 
 
 [Here](https://hao-starrr.github.io/booklist/) is my booklist about philosophy, economics, psychology, science, fictions, and so on. 
 
@@ -36,7 +36,12 @@ I enjoy self-learning more than taking lectures in school. Actually, I took less
 
 ### Communication
 
-My experience in the debate team taught me a lot about communication skills. In the minds of many, debate is defensive or aggressive talk and is considered an inefficient, consensus-eluding form of communication. However, debate is actually a way to persuade the audience (not the opponents) by clashing with the opposing stance. It can be seen as another form of presentation. On one hand, debate training teaches me the technics of verbal sparring. Once you master this, you naturally understand how to "Seek common ground while reserve differences" — just do the opposite of sparring. On the other hand, debate training instructs me in influencing third parties, persuading through logic, evoking emotions (and practicing in Mafia). I valued this experience. 
+My experience in the debate team taught me a lot about communication skills. In the minds of many, debate is defensive or aggressive talk and is considered an inefficient, consensus-eluding form of communication. However, debate is actually a way to persuade the audience (not the opponents) by clashing with the opposing stance. It can be seen as another form of presentation. Debate training teaches me the technics of verbal sparring. Once you master this, you naturally understand how to "Seek common ground while reserve differences" — just do the opposite of sparring.  
+
+People with similar stands often have different view points and argumentative logic, while those with different positions often share common criteria for judgment. I don't focus on what the stand is; I care about whether the stand arises from rigorous reasoning, rather than 'feeling'. 
+
+I valued this experience, as well as the logical training it provides. 
+
 
 
 
