@@ -47,7 +47,7 @@ I valued this experience, as well as the logical training it provides.
 
 Very close to ENTJ, but very far from INFJ. I bet T is 99%.  
 
-Here is my T zone: https://medium.com/@haostarrr
+Here is my T zone: [https://medium.com/@haostarrr](https://medium.com/@haostarrr)
 
 
 
