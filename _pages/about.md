@@ -45,7 +45,7 @@ I valued this experience, as well as the logical training it provides.
 
 ### INTJ 
 
-Very close to ENTJ. I bet T is 99%.  
+Very close to ENTJ, but very far from INFJ. I bet T is 99%.  
 
 Here is my T zone: https://medium.com/@haostarrr
 
