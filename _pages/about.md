@@ -43,6 +43,13 @@ People with similar stands often have different view points and argumentative lo
 I valued this experience, as well as the logical training it provides. 
 
 
+### INTJ 
+
+Very close to ENTJ. I bet T is 99%.  
+
+Here is my T zone: https://medium.com/@haostarrr
+
+
 
 
 <br />
