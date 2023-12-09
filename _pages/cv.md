@@ -20,13 +20,11 @@ redirect_from:
 - The Chinese University of Hong Kong, 2019-2023
 
   - Bachelor of Engineering in Mechanical and Automation Engineering
-  - Overall GPA: 3.81/4.00, Major GPA: 3.94/4.00, Rank 1/128
-  - Elite Scholarship, Yu To Sang Memorial Scholarship (top 1%, both awarded for three consecutive years) and 9 other scholarships.
+  - Rank 1/128, Overall GPA: 3.81/4.00, Major GPA: 3.94/4.00
+  - Exchanged to University of Toronto in Robotics, 3 graduate-level courses with A/A+ grade in junior year.
+  - Elite Scholarship (4 years), Yu To Sang Memorial Scholarship (3 years) and total 16 scholarships and honours over 120k HKD.
+  - Ranked top 0.3% in the National College Entrance Exam. Top 10 in Shanghai Jiao Tong University’s Independent Admissions Exam.
     <br />
-
-- University of Toronto Institute for Aerospace Studies, 2022 Winter
-  - Exchange Program in Robotics, Term GPA: 3.85/4.00
-  - A+ Courses: Mobile Robot and Perception, Introduction to AI, Advanced Robotics, and 15 others at CUHK.
 
 <br/>
 
@@ -34,7 +32,7 @@ redirect_from:
 
 **CUHK T Stone Robotics Institute, Unmanned Systems Research Group**
 <span style="float:right;">Oct. 2022 – Mar. 2023</span>  
-_Undergraduate Research Assistant_
+_Research Assistant_
 <span style="float:right;">_Hong Kong_</span>
 
 - Implemented topological sparse graphs generation for pre-build volumetric maps, filled the gap between drone mapping and planning based on existing GPU-mapping library, achieved autonomous exploration of environment without human intervention.
@@ -45,43 +43,54 @@ _Undergraduate Research Assistant_
 
 **University of Toronto Institute for Aerospace Studies**
 <span style="float:right;">May 2022 – Aug. 2022</span>  
-_Undergraduate Research Assistant_
+_Research Assistant_
 <span style="float:right;">_Toronto, ON_</span>
 
-- Researched convex optimization algorithms (SDP relaxation) to calibrate the extrinsic parameters in robot sensors trajectory alignment, making the optimized result certifiable in even targetless environment.
-- Developed a GN solver for scaled cases in Python, enabling the algorithm used on monocular camera, expanding the applicability.
+- Researched convex optimization algorithms (SDP relaxation) for robot sensors trajectory alignment, resulting in certifiable optimization in targetless environments. Improved sensor accuracy and efficiency in hand-eye calibration.
+- Developed a GN solver for scaled cases in Python, enabling the algorithm used on monocular camera, expanding the applicability to various robotic systems.
 - Innovatively derived the Lie algebra pose perturbation model. Visualized the optimization results of sensor poses by Matplotlib.
 
 <br />
 
 **BlockStudio Qianzhi Technology Ltd.**
 <span style="float:right;">June 2021 – Sept. 2021</span>  
-_Mechanical Engineer Intern_
+_Autonomous Engineer Intern_
 <span style="float:right;">_Shenzhen, China_</span>
 
-- Designed, built and tested differential conveyor belt plan and vibrating plate plan for toy blocks separation. Intergraded and tested computer vision algorithm in OpenCV for block counting, achieved autonomous quality inspection for blocks production.
+- Designed, built and tested differential conveyor belt plan and vibrating plate plan for toy blocks separation, achieving a 95% success rate and reduced manual inspection requirements.
+- Intergrated and tested computer vision algorithm in OpenCV for block counting, achieved autonomous quality inspection for blocks production.
 - Modeled the blocks assembly line using SolidWorks and regulated the process, achieved autonomous weighing and selection of building blocks.
 
 <br />
 
 **Department of Mechanical and Automation Engineering, CUHK**
 <span style="float:right;">May 2020 – Aug. 2020</span>  
-_Undergraduate Research Assistant_
+_Research Assistant_
 <span style="float:right;">_Hong Kong_</span>
 
-- Redesigned the barrier function and UAV control algorithm and achieved the time convergence and stability requirement.
-- Simulated the position and speed of the UAVs by MATLAB and visualized the results through video.
-- Received the annual Best Project Award as team achievement, individually received Innovation and Creativity Scholarship.
+- Invented a new barrier function in potential field multi-UAVs control algorithm and ensured the time convergence and stability requirement.
+- Simulated UAV positions and speeds using MATLAB, with visualizations that aided in improving control strategies, reflected in Innovation and Creativity Scholarship.
+- Received the annual Best Project Award, highlighting the project's impact on UAV control research.
 
 <br />
 
 ## Competition
 
+**2023 Grant Theft Autonomous Robot Competition**  
+October 2023 - December 2023
+
+- Led a team to construct a robot capable of navigating using infrared and Vive coordinates and autonomously grabbing trophies, competing against numerous other robots.
+- Independently designed seven key systems of the robot, managed project timelines, presentations, and task distribution, ensuring efficient project execution and team coordination.
+- Made decisions on every details of mechanical design, electrical layout, library chosen, algorithms and strategies, which largely enhanced the robustness and performance.
+- Developed a web page for robot control and implemented communication protocols between boards, along with PID and navigation algorithms, leading to improved operational efficiency.
+
+<br />
+
 **2021 National Engineering Practice Competition (Logistics Robot)**  
 January 2021 - June 2021
 
-- Designed and modeled the structure, selected standard parts types, fabricated non-standard parts using laser cutting and 3D printing, implemented vision object detection using OpenMV.
-- Optimized the motion logic by integrating additional tracking sensors and improved stability through speed smoothing.
+- Conceptualized and executed the robot's design, including part selection, fabrication of non-standard parts using laser cutting and 3D printing, and implementing vision object detection with OpenMV.
+- Enhanced motion logic by incorporating additional tracking sensors and improved stability with speed smoothing techniques, increasing the robot's reliability and speed.
 - Won 1st place in Hong Kong, and Silver Award in the national final among 601 teams from 267 universities. The result was featured in [the website of MAE department](https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/).
 - Find video [here](https://youtu.be/IHseo0RF8Oc).
 
@@ -89,7 +98,7 @@ January 2021 - June 2021
 
 ## Leadership and Community Service
 
-**Co-Initiator of WEHEARD Program**  
+**Initiator of WEHEARD Program**  
 Jan. 2023 - Apr. 2023
 
 - Conducted in-depth research on the employment conditions of hearing-impaired persons (HIP) in the food delivery industry in Hong Kong.
@@ -100,19 +109,19 @@ Jan. 2023 - Apr. 2023
 
 <br />
 
-**Manager of CUHK Mandarin Debate Team**  
+**Captain of CUHK Mandarin Debate Team**  
 May 2020 - May 2021
 
-- Coordinated a team of 120+ members for weekly training sessions and managed logistics for 10+ international competitions. Organized and hosted over 100 mock competitions within one year.
-- Conducted two rounds of recruitment interviews with 121 candidates, overseeing people, time management, documentation, and selection processes.
+- Coordinated a team of 120+ members and prepared over 9-hours-weekly training and managed logistics for 10+ international competitions. Organized and hosted over 100 mock competitions within one year.
+- Conducted two rounds of recruitment interviews with 121 candidates, overseeing 30 helpers, time management, documentation, and selection processes.
 
 <br />
 
-**Co-Founder of 2021 Exemplar Tournament Freshman Mandarin Debate Competition**  
+**Founder of 2021 Exemplar Tournament Freshman Mandarin Debate Competition**  
 March 2021 - May 2021
 
-- Initiated and founded the "Exemplar Tournament" Freshman Mandarin Debate Competition, the first international Mandarin debate competition at CUHK. Secured funding of more than 14,000 HKD from the university. Promoted the competition extensively on the CUHK Office of Student Affairs homepage.
-- Drafted the Tournament Regulations, effectively handled multiple emergencies throughout the two-month competition period, and facilitated team registration for more than 50 universities and debate clubs worldwide.
+- Founded the "Exemplar Tournament" Freshman Mandarin Debate Competition, the first international Mandarin debate competition initiated by CUHK. Secured funding of more than 14,000 HKD from the university. Promoted the competition extensively on the CUHK Office of Student Affairs homepage.
+- Drafted the Tournament Regulations, effectively handled multiple emergencies throughout the 2-month competition period, and facilitated team registration for more than 50 universities and debate clubs worldwide.
 
 <br />
 
