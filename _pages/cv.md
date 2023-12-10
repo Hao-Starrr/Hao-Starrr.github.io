@@ -54,7 +54,7 @@ _Research Assistant_
 
 **BlockStudio Qianzhi Technology Ltd.**
 <span style="float:right;">June 2021 – Sept. 2021</span>  
-_Autonomous Engineer Intern_
+_Automation Engineer Intern_
 <span style="float:right;">_Shenzhen, China_</span>
 
 - Designed, built and tested differential conveyor belt plan and vibrating plate plan for toy blocks separation, achieving a 95% success rate and reduced manual inspection requirements.
