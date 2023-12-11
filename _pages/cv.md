@@ -44,7 +44,7 @@ _Research Assistant_
 **University of Toronto Institute for Aerospace Studies**
 <span style="float:right;">May 2022 – Aug. 2022</span>  
 _Research Assistant_
-<span style="float:right;">_Toronto, ON_</span>
+<span style="float:right;">_Toronto, CA_</span>
 
 - Researched convex optimization algorithms (SDP relaxation) for robot sensors trajectory alignment, resulting in certifiable optimization in targetless environments. Improved sensor accuracy and efficiency in hand-eye calibration.
 - Developed a GN solver for scaled cases in Python, enabling the algorithm used on monocular camera, expanding the applicability to various robotic systems.
