@@ -76,18 +76,29 @@ _Research Assistant_
 
 ## Competition
 
-**2023 Grant Theft Autonomous Robot Competition**  
-October 2023 - December 2023
+**2023 Grant Theft Autonomous**  
+Nov. 2023 - Dec. 2023
 
-- Led a team to construct a robot capable of navigating using infrared and Vive coordinates and autonomously grabbing trophies, competing against numerous other robots.
-- Independently designed seven key systems of the robot, managed project timelines, presentations, and task distribution, ensuring efficient project execution and being the first team checked with full extra credits.
-- Made decisions on every details of mechanical design, electrical layout, library chosen, algorithms and strategies, which largely enhanced the robustness and performance.
+- Led the team in developing an autonomous robot equipped with infrared and Vive coordinate navigation, capturing trophies without visual assessment, culminating in Championship among 40 teams and interview featured on UPenn campus newspaper.
+- Independently designed the architect of robot including 6 systems, made decisions on every details of structure design, electrical layout, library chosen, algorithms and strategies, scored highest in a single game.
+- In charge of the project timelines, task distribution, presentations, ensuring efficient project execution and being the first team checked with full extra credits.
 - Developed a web page for robot control and implemented communication protocols between boards, along with PID and navigation algorithms, leading to improved operational efficiency.
+- The competition is [here](https://www.youtube.com/watch?v=Pt5Qd4mry5I&t=9516s) in GRASP Lab Youtube Channel.
+
+<br />
+
+**2023 Pick and Place Challenge**  
+Nov. 2023 - Dec. 2023
+
+- Developed an noise elimination algorithm for block detection integrated with Kalman filter, enhancing the accuracy and robustness of the system and making grabbing success rate as 100%.
+- Implemented the offline RRT\* path planning algorithm on Franka manipulator, resolving challenges of collision with noise data with high operational efficiency.
+- Achieved a record-breaking score for the course. Emerged as the Champion in the GRASP Lab annual competition of 20 teams.
+- The competition is [here](https://www.youtube.com/watch?v=enAke8V9i44).
 
 <br />
 
 **2021 National Engineering Practice Competition (Logistics Robot)**  
-January 2021 - June 2021
+Jan. 2021 - June 2021
 
 - Conceptualized and executed the robot's design, including part selection, fabrication of non-standard parts using laser cutting and 3D printing, and implementing vision object detection with OpenMV.
 - Enhanced motion logic by incorporating additional tracking sensors and improved stability with speed smoothing techniques, increasing the robot's reliability and speed.
@@ -133,5 +144,5 @@ Framework: ROS, CUDA, Qt, Arduino, Embedded Programming
 
 Software: Git, SolidWorks, CAD
 
-Robotics Algorithm: (Planning) A*, PRM, RRT*, MPC, (State Estimation) Kalman Filter, EKF, UKF, Particle Filters,
+Robotics Algorithm: (Planning) A\*, PRM, RRT\*, MPC, (State Estimation) Kalman Filter, EKF, UKF, Particle Filters,
 (Perception) 3D vision, SLAM, basic filter and feature detection, OpenCV
