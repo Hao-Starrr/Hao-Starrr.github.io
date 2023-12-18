@@ -80,7 +80,7 @@ _Research Assistant_
 October 2023 - December 2023
 
 - Led a team to construct a robot capable of navigating using infrared and Vive coordinates and autonomously grabbing trophies, competing against numerous other robots.
-- Independently designed seven key systems of the robot, managed project timelines, presentations, and task distribution, ensuring efficient project execution and team coordination.
+- Independently designed seven key systems of the robot, managed project timelines, presentations, and task distribution, ensuring efficient project execution and being the first team checked with full extra credits.
 - Made decisions on every details of mechanical design, electrical layout, library chosen, algorithms and strategies, which largely enhanced the robustness and performance.
 - Developed a web page for robot control and implemented communication protocols between boards, along with PID and navigation algorithms, leading to improved operational efficiency.
 
