@@ -80,7 +80,7 @@ _Research Assistant_
 Nov. 2023 - Dec. 2023
 
 - Led the team in developing an autonomous robot equipped with infrared and Vive coordinate navigation, capturing trophies without visual assessment, culminating in Championship among 40 teams and interview featured on UPenn campus newspaper.
-- Independently designed the architect of robot including 6 systems, made decisions on every details of structure design, electrical layout, library chosen, algorithms and strategies, scored highest in a single game.
+- Independently designed the architect of robot including 7 modular systems, made decisions on every details of structure design, electrical layout, library chosen, algorithms and strategies, scored highest in a single game.
 - In charge of the project timelines, task distribution, presentations, ensuring efficient project execution and being the first team checked with full extra credits.
 - Developed a web page for robot control and implemented communication protocols between boards, along with PID and navigation algorithms, leading to improved operational efficiency.
 - The competition is [here](https://www.youtube.com/watch?v=Pt5Qd4mry5I&t=9516s) in GRASP Lab Youtube Channel.
