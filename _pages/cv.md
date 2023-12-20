@@ -52,7 +52,7 @@ _Research Assistant_
 
 <br />
 
-**BlockStudio Qianzhi Technology Ltd.**
+**BlockStudio Qianzhi Technology Ltd. (Startup)**
 <span style="float:right;">June 2021 – Sept. 2021</span>  
 _Automation Engineer Intern_
 <span style="float:right;">_Shenzhen, China_</span>
@@ -90,7 +90,7 @@ Nov. 2023 - Dec. 2023
 **2023 Pick and Place Challenge**  
 Nov. 2023 - Dec. 2023
 
-- Developed an noise elimination algorithm for block detection integrated with Kalman filter, enhancing the accuracy and robustness of the system and making grabbing success rate as 100%.
+- Developed a noise elimination algorithm for block detection integrated with Kalman filter, enhancing the accuracy and robustness of the system and making grabbing success rate as 100%.
 - Implemented the offline RRT\* path planning algorithm on Franka manipulator, resolving challenges of collision with noise data with high operational efficiency.
 - Achieved a record-breaking score for the course with 8 blocks. Emerged as the Champion in the GRASP Lab annual competition of 20 teams.
 - The competition is [here](https://www.youtube.com/watch?v=enAke8V9i44).
