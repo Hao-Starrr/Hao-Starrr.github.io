@@ -27,13 +27,13 @@ I have an insatiable thirst for "useless" knowledge—knowledge that may not dir
 
 [Here](https://hao-starrr.github.io/booklist/) is my booklist about philosophy, economics, psychology, science, fictions, and so on.
 
+### How to explain it to you
+
+I like asking why. So I know how to explain complex things clearly and simply. See my blog: [怎么解释你才懂](https://medium.com/@haostarrr/%E6%80%8E%E4%B9%88%E8%A7%A3%E9%87%8A%E4%BD%A0%E6%89%8D%E6%87%82-e937fc93be55).
+
 ### Self-motivation
 
 I enjoy self-learning more than taking lectures in school. Actually, I took less than 20% lectures in the third and fourth year of undergraduate but still retain a good grade. Bilibili and YouTube are always great teachers. Now, ChatGPT is a better teacher.
-
-### How to explain it to you
-
-I know how to explain complex things clearly and simply. See my blog: [怎么解释你才懂](https://medium.com/@haostarrr/%E6%80%8E%E4%B9%88%E8%A7%A3%E9%87%8A%E4%BD%A0%E6%89%8D%E6%87%82-e937fc93be55).
 
 ### Communication
 
