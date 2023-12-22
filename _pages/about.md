@@ -13,7 +13,7 @@ redirect_from:
 
 I am currently a master's student at the University of Pennsylvania (UPenn), pursuing my passion for robotics with a focus on planning. I completed my bachelor's degree in Mechanical and Automation Engineering at The Chinese University of Hong Kong (CUHK). During my third year, I had the opportunity to exchange to the University of Toronto for a semester. In the subsequent summer, I conducted research at the UTIAS Lab under the guidance of Prof. Jonathan Kelly, investigating certifiable multi-sensor calibration optimization. Additionally, I worked on my final year project on MAV Topological Sparse Graph Generation, supervised by Prof. Chen Benmei.
 
-## Besides research
+## Why me?
 
 ### Hobbies
 
@@ -27,7 +27,7 @@ I have an insatiable thirst for "useless" knowledge—knowledge that may not dir
 
 [Here](https://hao-starrr.github.io/booklist/) is my booklist about philosophy, economics, psychology, science, fictions, and so on.
 
-### Self-learning
+### Self-motivation
 
 I enjoy self-learning more than taking lectures in school. Actually, I took less than 20% lectures in the third and fourth year of undergraduate but still retain a good grade. Bilibili and YouTube are always great teachers. Now, ChatGPT is a better teacher.
 
@@ -38,6 +38,8 @@ My experience in the debate team taught me a lot about communication skills. In 
 People with same stands often have different view points and argumentative logic, while those with different positions often share common criteria for judgment. I don't care about what the stand is; I care about whether the stand arises from rigorous reasoning, rather than 'feeling'.
 
 I valued this experience, as well as the logical training it provides.
+
+Besides, I know how to explain complex things clearly and simply. See [怎么解释你才懂？](https://medium.com/@haostarrr/%E6%80%8E%E4%B9%88%E8%A7%A3%E9%87%8A%E4%BD%A0%E6%89%8D%E6%87%82-e937fc93be55).
 
 ### INTJ
 
