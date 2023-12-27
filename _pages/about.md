@@ -13,19 +13,23 @@ redirect_from:
 
 I am currently a master's student at the University of Pennsylvania (UPenn), pursuing my passion for robotics. I completed my bachelor's degree in Mechanical and Automation Engineering at The Chinese University of Hong Kong (CUHK). During my third year, I had the opportunity to exchange to the University of Toronto for a semester. In the subsequent summer, I conducted research at the UTIAS Lab under the guidance of Prof. Jonathan Kelly, investigating certifiable multi-sensor calibration optimization. Additionally, I worked on my final year project on MAV Topological Sparse Graph Generation, supervised by Prof. Chen Benmei.
 
-## Why me?
-
-### Hobbies
+## Hobbies
 
 One of my favorite activities is playing Mafia (The Werewolves of Millers Hollow, 狼人杀). I view it not merely as a logic game but as a psychological and dramatic performance. Logic is just one avenue to persuade (or "influence", or perhaps, "c-h-e-a-t") others; there are many other aspects to explore within the game, such as different players, game settings, and the intricacies of psychology. The brilliance of this game lies in the psychological warfare.
 
 I fell in love with Poker after learning probability and statistics. I realized this game is not about gambling, but about self-discipling.
+
+## Why me?
 
 ### Curiosity
 
 I have an insatiable thirst for "useless" knowledge—knowledge that may not directly relate to grades, work, or utilitarian efforts, such as philosophy and the history of science—because learning purely for the sake of learning brings me immense happiness. That might be called curiosity. Bertrand Russell is my idol in this regard. I enjoy studying the underlying logic and mechanisms behind complex systems and explain them in a easy way. I tried to figure it out in the graduate school application and I concluded it into advices for future applicants at CUHK. See [Graduate Application for CUHKer](https://github.com/Hao-Starrr/Graduate-Application-for-CUHKer).
 
 [Here](https://hao-starrr.github.io/booklist/) is my booklist about philosophy, economics, psychology, science, fictions, and so on.
+
+### Intolerance
+
+I have an intolerance for repetition, inefficiency, and disorder. Whenever I find myself repeating a task for more than three times, I instinctively start exploring automated solutions. Wasting time is a source of distress for me. If I begin to eagerly await the end of a task, I immediately question its significance. I meticulously organize the materials I am responsible for, be it in club operations, company management processes, or coding. Driven by my intolerance, I strive to transform repetitive, inefficient, and chaotic tasks into processes that are streamlined, standardized, and automated.
 
 ### How to explain it to you
 

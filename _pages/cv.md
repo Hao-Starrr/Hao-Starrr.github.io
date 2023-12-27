@@ -123,8 +123,9 @@ Jan. 2023 - Apr. 2023
 **Captain of CUHK Mandarin Debate Team**  
 May 2020 - May 2021
 
-- Coordinated a team of 120+ members and prepared over 9-hours-weekly training and managed logistics for 10+ international competitions. Organized and hosted over 100 mock competitions within one year.
+- Coordinated a team of 120+ members and prepared over 9-hours-weekly training and managed logistics for 10+ international competitions, monthly reading sharing sessions. Organized and hosted over 100 mock competitions within one year.
 - Conducted two rounds of recruitment interviews with 121 candidates, overseeing 30 helpers, time management, documentation, and selection processes.
+- Revolutionized information management and communication for team by implementing a streamlined system with Gmail and Google Calendar for effective notifications and team coordination. Established comprehensive file organization protocols and operational procedures, leading to enhanced efficiency and standardization, significantly improving team synchronization and operational automation. The standards are continually used until now.
 
 <br />
 
@@ -133,6 +134,7 @@ March 2021 - May 2021
 
 - Founded the "Exemplar Tournament" Freshman Mandarin Debate Competition, the first international Mandarin debate competition initiated by CUHK. Secured funding of more than 14,000 HKD from the university. Promoted the competition extensively on the CUHK Office of Student Affairs homepage.
 - Drafted the Tournament Regulations, effectively handled multiple emergencies throughout the 2-month competition period, and facilitated team registration for more than 50 universities and debate clubs worldwide.
+- Autonomously generated the proofs of participation and certificates for over 100 debater by Python.
 
 <br />
 
