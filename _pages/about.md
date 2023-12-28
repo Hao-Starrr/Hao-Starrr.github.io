@@ -29,7 +29,7 @@ I have an insatiable thirst for "useless" knowledge—knowledge that may not dir
 
 ### Intolerance
 
-I have an intolerance for repetition, inefficiency, and disorder. Whenever I find myself repeating a task for more than three times, I instinctively start exploring automated solutions. Wasting time is a source of distress for me. If I begin to eagerly await the end of a task, I immediately question its significance. I meticulously organize the materials I am responsible for, be it in club operations, company management processes, or coding. Driven by my intolerance, I strive to transform repetitive, inefficient, and chaotic tasks into processes that are streamlined, standardized, and automated.
+I cannot tolerate repetition, inefficiency, and disorder. Whenever I find myself repeating a task for more than three times, I will start exploring the automated solutions. Wasting time is painful for me. If I begin to await the end of something, I will question myself whether I am doing the meaningful things. I meticulously organize the materials I am responsible for, in club operations, company management processes, or coding. Driven by my intolerance, I strive to transform repetitive, inefficient, and chaotic tasks into processes that are streamlined, standardized, and automated.
 
 ### How to explain it to you
 
