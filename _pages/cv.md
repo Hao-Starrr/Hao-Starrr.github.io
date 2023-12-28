@@ -134,7 +134,7 @@ March 2021 - May 2021
 
 - Founded the "Exemplar Tournament" Freshman Mandarin Debate Competition, the first international Mandarin debate competition initiated by CUHK. Secured funding of more than 14,000 HKD from the university. Promoted the competition extensively on the CUHK Office of Student Affairs homepage.
 - Drafted the Tournament Regulations, effectively handled multiple emergencies throughout the 2-month competition period, and facilitated team registration for more than 50 universities and debate clubs worldwide.
-- Autonomously generated the proofs of participation and certificates for over 100 debater by Python.
+- Autonomously generated the proofs of participation and certificates for over 100 debaters by Python.
 
 <br />
 
