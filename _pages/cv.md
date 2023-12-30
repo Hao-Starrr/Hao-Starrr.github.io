@@ -12,12 +12,12 @@ redirect_from:
 
 ## Education
 
-- University of Pennsylvania, 2023-2025 (Expected)
+- **University of Pennsylvania, 2023-2025 (Expected)**
 
   - Master of Engineering in MEAM Robotics track
     <br />
 
-- The Chinese University of Hong Kong, 2019-2023
+- **The Chinese University of Hong Kong, 2019-2023**
 
   - Bachelor of Engineering in Mechanical and Automation Engineering
   - **Rank 1/128**, Overall GPA: 3.81/4.00, Major GPA: 3.94/4.00
@@ -33,7 +33,7 @@ redirect_from:
 **2023 Grant Theft Autonomous**  
 Nov. 2023 - Dec. 2023
 
-- Led the team in developing an autonomous robot equipped with infrared and Vive coordinate navigation, capturing trophies without visual assessment, culminating in **Championship among 40 teams and interview featured on UPenn campus newspaper**.
+- Led the team in developing an autonomous robot equipped with infrared and Vive coordinate navigation, capturing trophies without visual assessment, culminating in **Championship** among 40 teams and interview featured on UPenn campus newspaper.
 - Independently designed the architect of robot including 7 modular systems, made decisions on every details of structure design, electrical layout, library chosen, algorithms and strategies, scored highest in a single game.
 - In charge of the project timelines, task distribution, presentations, ensuring efficient project execution and being the first team checked with full extra credits.
 - Developed a web page for robot control and implemented communication protocols between boards, along with PID and navigation algorithms, leading to improved operational efficiency.
@@ -46,7 +46,7 @@ Nov. 2023 - Dec. 2023
 
 - Developed a noise elimination algorithm for block detection integrated with Kalman filter, enhancing the accuracy and robustness of the system and making grabbing success rate as 100%.
 - Implemented the offline RRT\* path planning algorithm on Franka manipulator, resolving challenges of collision with noise data with high operational efficiency.
-- Achieved a record-breaking score for the course with 8 blocks. Emerged as the **Champion in the GRASP Lab annual competition** of 20 teams.
+- Achieved a record-breaking score for the course with 8 blocks. Emerged as the **Champion** in the GRASP Lab annual competition of 20 teams.
 - The competition is [here](https://www.youtube.com/watch?v=enAke8V9i44).
 
 <br />
@@ -56,7 +56,7 @@ Jan. 2021 - June 2021
 
 - Conceptualized and executed the robot's design, including part selection, fabrication of non-standard parts using laser cutting and 3D printing, and implementing vision object detection with OpenMV.
 - Enhanced motion logic by incorporating additional tracking sensors and improved stability with speed smoothing techniques, increasing the robot's reliability and speed.
-- Won **1st place in Hong Kong**, and **Silver Award in the national final** among 601 teams from 267 universities. The result was featured in [the website of MAE department](https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/).
+- Won **1st place** in Hong Kong, and **Silver Award** in the national final among 601 teams from 267 universities. The result was featured in [the website of MAE department](https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/).
 - Find video [here](https://youtu.be/IHseo0RF8Oc).
 
 <br />
