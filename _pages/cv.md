@@ -20,13 +20,46 @@ redirect_from:
 - The Chinese University of Hong Kong, 2019-2023
 
   - Bachelor of Engineering in Mechanical and Automation Engineering
-  - Rank 1/128, Overall GPA: 3.81/4.00, Major GPA: 3.94/4.00
+  - **Rank 1/128**, Overall GPA: 3.81/4.00, Major GPA: 3.94/4.00
   - Exchanged to University of Toronto in Robotics, 3 graduate-level courses with A/A+ grade in junior year.
   - Elite Scholarship (4 years), Yu To Sang Memorial Scholarship (3 years) and total 16 scholarships and honors over 120k HKD.
   - Ranked top 0.3% in the National College Entrance Exam. Top 10 in Shanghai Jiao Tong University’s Independent Admissions Exam.
     <br />
 
 <br/>
+
+## Competition
+
+**2023 Grant Theft Autonomous**  
+Nov. 2023 - Dec. 2023
+
+- Led the team in developing an autonomous robot equipped with infrared and Vive coordinate navigation, capturing trophies without visual assessment, culminating in **Championship among 40 teams and interview featured on UPenn campus newspaper**.
+- Independently designed the architect of robot including 7 modular systems, made decisions on every details of structure design, electrical layout, library chosen, algorithms and strategies, scored highest in a single game.
+- In charge of the project timelines, task distribution, presentations, ensuring efficient project execution and being the first team checked with full extra credits.
+- Developed a web page for robot control and implemented communication protocols between boards, along with PID and navigation algorithms, leading to improved operational efficiency.
+- The competition is [here](https://www.youtube.com/watch?v=Pt5Qd4mry5I&t=9516s) in GRASP Lab Youtube Channel.
+
+<br />
+
+**2023 Pick and Place Challenge**  
+Nov. 2023 - Dec. 2023
+
+- Developed a noise elimination algorithm for block detection integrated with Kalman filter, enhancing the accuracy and robustness of the system and making grabbing success rate as 100%.
+- Implemented the offline RRT\* path planning algorithm on Franka manipulator, resolving challenges of collision with noise data with high operational efficiency.
+- Achieved a record-breaking score for the course with 8 blocks. Emerged as the **Champion in the GRASP Lab annual competition** of 20 teams.
+- The competition is [here](https://www.youtube.com/watch?v=enAke8V9i44).
+
+<br />
+
+**2021 National Engineering Practice Competition (Logistics Robot)**  
+Jan. 2021 - June 2021
+
+- Conceptualized and executed the robot's design, including part selection, fabrication of non-standard parts using laser cutting and 3D printing, and implementing vision object detection with OpenMV.
+- Enhanced motion logic by incorporating additional tracking sensors and improved stability with speed smoothing techniques, increasing the robot's reliability and speed.
+- Won **1st place in Hong Kong**, and **Silver Award in the national final** among 601 teams from 267 universities. The result was featured in [the website of MAE department](https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/).
+- Find video [here](https://youtu.be/IHseo0RF8Oc).
+
+<br />
 
 ## Research and Work Experience
 
@@ -71,39 +104,6 @@ _Research Assistant_
 - Invented a new barrier function in potential field multi-UAVs control algorithm and ensured the time convergence and stability requirement.
 - Simulated UAV positions and speeds using MATLAB, with visualizations that aided in improving control strategies, reflected in Innovation and Creativity Scholarship.
 - Received the annual Best Project Award, highlighting the project's impact on UAV control research.
-
-<br />
-
-## Competition
-
-**2023 Grant Theft Autonomous**  
-Nov. 2023 - Dec. 2023
-
-- Led the team in developing an autonomous robot equipped with infrared and Vive coordinate navigation, capturing trophies without visual assessment, culminating in Championship among 40 teams and interview featured on UPenn campus newspaper.
-- Independently designed the architect of robot including 7 modular systems, made decisions on every details of structure design, electrical layout, library chosen, algorithms and strategies, scored highest in a single game.
-- In charge of the project timelines, task distribution, presentations, ensuring efficient project execution and being the first team checked with full extra credits.
-- Developed a web page for robot control and implemented communication protocols between boards, along with PID and navigation algorithms, leading to improved operational efficiency.
-- The competition is [here](https://www.youtube.com/watch?v=Pt5Qd4mry5I&t=9516s) in GRASP Lab Youtube Channel.
-
-<br />
-
-**2023 Pick and Place Challenge**  
-Nov. 2023 - Dec. 2023
-
-- Developed a noise elimination algorithm for block detection integrated with Kalman filter, enhancing the accuracy and robustness of the system and making grabbing success rate as 100%.
-- Implemented the offline RRT\* path planning algorithm on Franka manipulator, resolving challenges of collision with noise data with high operational efficiency.
-- Achieved a record-breaking score for the course with 8 blocks. Emerged as the Champion in the GRASP Lab annual competition of 20 teams.
-- The competition is [here](https://www.youtube.com/watch?v=enAke8V9i44).
-
-<br />
-
-**2021 National Engineering Practice Competition (Logistics Robot)**  
-Jan. 2021 - June 2021
-
-- Conceptualized and executed the robot's design, including part selection, fabrication of non-standard parts using laser cutting and 3D printing, and implementing vision object detection with OpenMV.
-- Enhanced motion logic by incorporating additional tracking sensors and improved stability with speed smoothing techniques, increasing the robot's reliability and speed.
-- Won 1st place in Hong Kong, and Silver Award in the national final among 601 teams from 267 universities. The result was featured in [the website of MAE department](https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/).
-- Find video [here](https://youtu.be/IHseo0RF8Oc).
 
 <br />
 
