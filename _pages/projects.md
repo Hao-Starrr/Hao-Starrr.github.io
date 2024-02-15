@@ -34,10 +34,10 @@ To be constructed (images)
 • Developing motion planning and trajectory tracking algorithms with desired trajectory recorded by **Vicon** Motion Capture System.
 
 **Grant Theft Autonomous 2023**  
-• Find the competition at [](https://www.youtube.com/watch?v=Pt5Qd4mry5I&t=9516s) in GRASP Lab Youtube Channel.
+• Find the competition recording at [GRASP Lab Youtube Channel](https://www.youtube.com/watch?v=Pt5Qd4mry5I&t=9516s).
 
 **Pick and Place Challenge 2023**  
-• Find the competition at [](https://www.youtube.com/watch?v=enAke8V9i44) in GRASP Lab Youtube Channel.
+• Find the competition recording at [GRASP Lab Youtube Channel](https://www.youtube.com/watch?v=enAke8V9i44).
 
 **National Engineering Practice 2021**  
 • Find video [here](https://youtu.be/IHseo0RF8Oc).  
