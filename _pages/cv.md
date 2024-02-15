@@ -15,6 +15,7 @@ redirect_from:
 - **University of Pennsylvania, 2023-2025 (Expected)**
 
   - Master of Engineering in MEAM Robotics track
+  - GPA: 4.0/4.0
     <br />
 
 - **The Chinese University of Hong Kong, 2019-2023**
@@ -26,34 +27,29 @@ redirect_from:
   - Ranked top 0.3% in the National College Entrance Exam. Top 10 in Shanghai Jiao Tong University’s Independent Admissions Exam.
     <br />
 
-<br/>
-
 ## Competition
 
 **2023 Grant Theft Autonomous**  
 Nov. 2023 - Dec. 2023
 
-- Led the team in developing an autonomous robot equipped with infrared and Vive coordinate navigation, capturing trophies without visual assessment, culminating in **Championship** among 40 teams and interview featured on UPenn campus newspaper.
+- Led the team in developing an autonomous robot equipped with infrared sensors, **Vive** system, **TOF**, capturing trophies without visual assessment, culminating in **Championship** among 40 teams and interview featured on UPenn campus newspaper.
 - Independently designed the architect of robot including 7 modular systems, made decisions on every details of structure design, electrical layout, library chosen, algorithms and strategies, scored highest in a single game.
-- In charge of the project timelines, task distribution, presentations, ensuring efficient project execution and being the first team checked with full extra credits.
-- Developed a web page for robot control and implemented communication protocols between boards, along with PID and navigation algorithms, leading to improved operational efficiency.
-- The competition is [here](https://www.youtube.com/watch?v=Pt5Qd4mry5I&t=9516s) in GRASP Lab Youtube Channel.
+- In charge of the project timelines, task distribution, presentations, managed code by **Git**, ensuring efficient project execution and being the first team checked with full extra credits.
+- Developed **HTML** page using HTTP for robot control and implemented communication protocols in ESP-NOW, along with **PID** controller, leading to improved operational efficiency.
 
 **2023 Pick and Place Challenge**  
 Nov. 2023 - Dec. 2023
 
-- Developed a noise elimination algorithm for block detection integrated with Kalman filter, enhancing the accuracy and robustness of the system and making grabbing success rate as 100%.
-- Implemented the offline RRT\* path planning algorithm on Franka manipulator, resolving challenges of collision with noise data with high operational efficiency.
 - Achieved a record-breaking score for the course with 8 blocks. Emerged as the **Champion** in the GRASP Lab annual competition of 20 teams.
-- The competition is [here](https://www.youtube.com/watch?v=enAke8V9i44).
+- Developed a noise elimination and axis alignment algorithm for block detection integrated with **Kalman filter**, enhancing the accuracy and robustness of the system, and making grabbing success rate as 100%.
+- Implemented the **offline RRT\*** path planning algorithm compared with **Informed RRT\*** on Franka manipulator with the OOP principle, resolving challenges of collision with noise data with high operational efficiency.
 
 **2021 National Engineering Practice Competition (Logistics Robot)**  
 Jan. 2021 - June 2021
 
-- Conceptualized and executed the robot's design, including part selection, fabrication of non-standard parts using laser cutting and 3D printing, and implementing vision object detection with OpenMV.
-- Enhanced motion logic by incorporating additional tracking sensors and improved stability with speed smoothing techniques, increasing the robot's reliability and speed.
-- Won **1st place** in Hong Kong, and **Silver Award** in the national final among 601 teams from 267 universities. The result was featured in [the website of MAE department](https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/).
-- Find video [here](https://youtu.be/IHseo0RF8Oc).
+- Won **1st** place in Hong Kong, and **Silver Award** in the national final among 601 teams from 267 universities.
+- Conceptualized and executed the robot’s design, including part selection, fabrication of non-standard parts using laser cutting, **CNC** and **3D printing**, and implementing vision object detection on **OpenMV**.
+- Enhanced motion logic by incorporating additional tracking sensors and improved stability with **speed smoothing** techniques, increasing the robot’s reliability and speed.
 
 ## Research and Work Experience
 
@@ -62,9 +58,9 @@ Jan. 2021 - June 2021
 _Research Assistant_
 <span style="float:right;">_Hong Kong_</span>
 
-- Implemented topological sparse graphs generation for pre-build volumetric maps, filled the gap between drone mapping and planning based on existing GPU-mapping library, achieved autonomous exploration of environment without human intervention.
-- Developed map saving and loading functions by serialization in C++, enabling multiple drones to share the rough pre-built maps and refine the exploration with multiple speed. Built and tested the simulation environment in Gazabo.
-- Deployed global and local planners on real-world unmanned air vehicle, successfully automatically controlled the drone in digitalized building 3D point cloud models which is built by on-board GPU increasing the mapping speed 10 times.
+- Deployed topological sparse graphs generation for pre-build volumetric maps, filled the gap between drone mapping and planning based on **CUDA**, achieved autonomous exploration of environment without human intervention.
+- Developed high compression ratio map saving and loading functions by serialization in **C++** integrated with **Protobuf**, decreasing the size by 40%, enabling multiple drones to share the rough pre-built maps and refine the exploration with multiple speed.
+- Deployed **Fast-planners** on real-world unmanned air vehicle, successfully automatically controlled the drone in digitalized building 3D point cloud models which is built by on-board GPU increasing the mapping speed 10 times.
 
 **University of Toronto Institute for Aerospace Studies**
 <span style="float:right;">May 2022 – Aug. 2022</span>  
@@ -72,8 +68,8 @@ _Research Assistant_
 <span style="float:right;">_Toronto, CA_</span>
 
 - Researched convex optimization algorithms (SDP relaxation) for robot sensors trajectory alignment, resulting in certifiable optimization in targetless environments. Improved sensor accuracy and efficiency in hand-eye calibration.
-- Developed a GN solver for scaled cases in Python, enabling the algorithm used on monocular camera, expanding the applicability to various robotic systems.
-- Innovatively derived the Lie algebra pose perturbation model. Visualized the optimization results of sensor poses by Matplotlib.
+- Developed a **GN solver** for scaled cloud point registration in **Python**, implemented relaxation in **CVXPY**, enabling the algorithm used on monocular camera, expanding the applicability to various robotic systems.
+- Innovatively derived the Lie algebra pose perturbation model. Intergraded our system with **ORB-SLAM3** and analyze the trajectory with ground truth, showing our method achieve over 80% optimal with 100% translation noise.
 
 **BlockStudio Qianzhi Technology Ltd. (Startup)**
 <span style="float:right;">June 2021 – Sept. 2021</span>  
@@ -81,17 +77,17 @@ _Automation Engineer Intern_
 <span style="float:right;">_Shenzhen, China_</span>
 
 - Designed, built and tested differential conveyor belt plan and vibrating plate plan for toy blocks separation, achieving a 95% success rate and reduced manual inspection requirements.
-- Intergrated and tested computer vision algorithm in OpenCV for block counting, achieved autonomous quality inspection for blocks production.
-- Modeled the blocks assembly line using SolidWorks and regulated the process, achieved autonomous weighing and selection of building blocks.
+- Intergrated and tested computer vision algorithm in **OpenCV** for block counting, achieved autonomous quality inspection for blocks production.
+- Modeled the blocks assembly line using **SolidWorks** and regulated the process, achieved autonomous weighing and selection of building blocks.
 
 **Department of Mechanical and Automation Engineering, CUHK**
 <span style="float:right;">May 2020 – Aug. 2020</span>  
 _Research Assistant_
 <span style="float:right;">_Hong Kong_</span>
 
-- Invented a new barrier function in potential field multi-UAVs control algorithm and ensured the time convergence and stability requirement.
-- Simulated UAV positions and speeds using MATLAB, with visualizations that aided in improving control strategies, reflected in Innovation and Creativity Scholarship.
-- Received the annual Best Project Award, highlighting the project's impact on UAV control research.
+- Invented new barrier function in **potential field** multi-UAVs control and ensured the time convergence and stability requirement.
+- Derived the dynamic model and simulated UAV positions and speeds using **MATLAB Simulink**, with visualizations that aided in improving control strategies, reflected in Innovation and Creativity Scholarship.
+- Received the annual **Best Project Award**, highlighting the project’s impact on UAV control research.
 
 ## Leadership and Community Service
 
