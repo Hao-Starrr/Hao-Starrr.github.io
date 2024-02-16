@@ -28,6 +28,11 @@ author_profile: true
 • Utilized **SIFT** matches and **RANSAC** estimated essential matrix to recover the pose and reconstructed 3D scene.  
 <img src="../images/580.jpg" width=500 />
 
+**National Engineering Practice 2021**  
+• Find video [here](https://youtu.be/IHseo0RF8Oc).  
+• The result was featured in [the website of MAE department](https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/).  
+<img src="../images/car.png" width=250 />
+
 **Grant Theft Autonomous 2023**  
 • Find the competition recording at [GRASP Lab Youtube Channel](https://www.youtube.com/watch?v=Pt5Qd4mry5I&t=9516s).  
 <img src="../images/510.jpg" width=250 />
