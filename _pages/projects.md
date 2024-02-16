@@ -5,9 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-To be constructed (images)
-
 **Differential Wheeled Robot Lidar SLAM in Indoor Environment 2022**  
+<img src="../images/slam.png" width=400 />  
 • Deployed **PRM** and **RRT\*** indoors generating global path in 2.0 second in **Gazebo** simulation environment.  
 • Adapted **MPC** controller in dynamic state lattice following the trajectory, visualized by ROS **Rviz**.  
 • Implement **EKF** against particle filter as localization and achieve 80% time decrease and higher accuracy.  
@@ -23,22 +22,23 @@ To be constructed (images)
 • Implemented **Viterbi** algorithm and Laplace smoothing achieving 98% accuracy on 2000 test documents.
 
 **3D Reconstruction in Augmented Reality Context 2023**  
+<img src="../images/ar.jpg" width=400 />  
+<img src="../images/580.png" width=400 />  
 • Estimated the homography that maps the video images onto the Penn Engineering logo points.  
 • Established world coordinate system by AprilTags and solved **PnP** problem mapping objects to 3D view, heavily used **NumPy**.  
 • Implemented visual odometry by **optical flow** and visualized the depth map.  
 • Utilized **SIFT** matches and **RANSAC** estimated essential matrix to recover the pose and reconstructed 3D scene.
 
-**Stewart Platform Movement 2024**  
-• Implemented algorithms to calculate analytical solution for **forward and inverse kinematics**.  
-• Built **PID** controller for linear actuators’ velocity feedback control with position sensor.  
-• Developing motion planning and trajectory tracking algorithms with desired trajectory recorded by **Vicon** Motion Capture System.
-
 **Grant Theft Autonomous 2023**  
+<img src="../images/510.jpg" width=400 />  
 • Find the competition recording at [GRASP Lab Youtube Channel](https://www.youtube.com/watch?v=Pt5Qd4mry5I&t=9516s).
 
 **Pick and Place Challenge 2023**  
+<img src="../images/520.jpg" width=400 />  
 • Find the competition recording at [GRASP Lab Youtube Channel](https://www.youtube.com/watch?v=enAke8V9i44).
 
-**National Engineering Practice 2021**  
-• Find video [here](https://youtu.be/IHseo0RF8Oc).  
-• The result was featured in [the website of MAE department](https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/).
+**Stewart Platform Movement 2024**  
+<img src="../images/stewart.jpeg" width=400 />  
+• Implemented algorithms to calculate analytical solution for **forward and inverse kinematics**.  
+• Built **PID** controller for linear actuators’ velocity feedback control with position sensor.  
+• Developing motion planning and trajectory tracking algorithms with desired trajectory recorded by **Vicon** Motion Capture System.
