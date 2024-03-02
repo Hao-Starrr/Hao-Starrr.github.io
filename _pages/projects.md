@@ -5,12 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-<table>
-  <style>
-    table {
-      font-size: 16px; /* 设置表格内所有文本的字体大小为18px */
-    }
-  </style>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 16px;">
+
   <tr>
     <td width="20%"><img src="../images/stewart.gif" width="800" /></td>
     <td>
