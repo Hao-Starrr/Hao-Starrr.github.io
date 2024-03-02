@@ -9,7 +9,11 @@ author_profile: true
   /* 为所有的表格设置样式 */
   table.myTable {
     width: 100%; 
-    border-collapse: collapse; 
+    border:0px; 
+    border-spacing:0px;
+    border-collapse: separate; 
+    margin-right:auto; 
+    margin-left:auto;
     font-size: 16px;
   }
   /* 针对表格内的单元格和表头去除边框 */
@@ -19,7 +23,7 @@ author_profile: true
   }
 </style>
 
-<table style="width:100%; border:0px; border-spacing:0px; border-collapse:separate; margin-right:auto; margin-left:auto; font-size: 16px;">
+<table class="myTable">
 
   <tr>
     <td width="20%"><img src="../images/stewart.gif" width="800" /></td>
