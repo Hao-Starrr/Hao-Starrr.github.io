@@ -12,7 +12,6 @@ author_profile: true
     border-collapse: collapse; 
     font-size: 16px;
   }
-
   /* 针对表格内的单元格和表头去除边框 */
   table.myTable td, table.myTable th {
     border: none;
@@ -20,7 +19,7 @@ author_profile: true
   }
 </style>
 
-<table class="myTable">
+<table style="width:100%; border:0px; border-spacing:0px; border-collapse:separate; margin-right:auto; margin-left:auto; font-size: 16px;">
 
   <tr>
     <td width="20%"><img src="../images/stewart.gif" width="800" /></td>
