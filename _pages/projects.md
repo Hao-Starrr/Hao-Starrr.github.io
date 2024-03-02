@@ -7,7 +7,7 @@ author_profile: true
 
 <table>
   <tr>
-    <td><img src="../images/stewart.gif" width="400" /></td>
+    <td><img src="../images/stewart.gif" width="800" /></td>
     <td>
       <strong>6-DoF Stewart Platform 2024</strong> <br>   
       Supervised by Prof. Mark Yim, the director of GRASP Lab.
@@ -19,7 +19,7 @@ author_profile: true
   </tr>
 
   <tr>
-    <td><img src="../images/510.jpg" width="400" /></td>
+    <td><img src="../images/510.jpg" width="800" /></td>
     <td>
       <strong>Grant Theft Autonomous 2023</strong><br>
       • Find the competition recording at <a href="https://www.youtube.com/watch?v=Pt5Qd4mry5I&t=9516s">GRASP Lab Youtube Channel</a>.<br>
@@ -27,7 +27,7 @@ author_profile: true
   </tr>
 
   <tr>
-    <td><img src="../images/520.jpg" width="400" /></td>
+    <td><img src="../images/520.jpg" width="800" /></td>
     <td>
       <strong>Pick and Place Challenge 2023</strong><br>
       • Find the competition recording at <a href="https://www.youtube.com/watch?v=enAke8V9i44">GRASP Lab Youtube Channel</a>.<br>
@@ -35,7 +35,7 @@ author_profile: true
   </tr>
 
   <tr>
-    <td><img src="../images/recon.png" width="400" />
+    <td><img src="../images/recon.png" width="800" />
     </td>
     <td>
       <strong>3D Reconstruction in Augmented Reality Context - Part1 2023</strong><br>
@@ -45,7 +45,7 @@ author_profile: true
   </tr>
 
   <tr>
-    <td><img src="../images/vr.gif" width="400" /></td>
+    <td><img src="../images/vr.gif" width="800" /></td>
     <td>
       <strong>3D Reconstruction in Augmented Reality Context - Part2 2023</strong><br>
       • Estimated the homography that maps the video images onto the Penn Engineering logo points.<br>
@@ -54,7 +54,7 @@ author_profile: true
   </tr>
   
   <tr>
-    <td><img src="../images/slam.png" width="400" /></td>
+    <td><img src="../images/slam.png" width="800" /></td>
     <td>
       <strong>Differential Wheeled Robot Lidar SLAM in Indoor Environment 2022</strong><br>
       • Deployed <strong>PRM</strong> and <strong>RRT*</strong> indoors generating global path in 2.0 second in <strong>Gazebo</strong> simulation environment.<br>
@@ -65,7 +65,7 @@ author_profile: true
   </tr>
 
   <tr>
-    <td><img src="../images/map.png" width="400" /></td>
+    <td><img src="../images/map.png" width="800" /></td>
     <td>
       <strong>2D Path Planning Interface on OpenStreetMap 2022</strong><br>
       • Implemented <strong>DFS</strong>, <strong>BFS</strong>, <strong>Greedy Best First</strong> compared with A* planning algorithm on building dense 2D map.<br>
@@ -75,7 +75,7 @@ author_profile: true
   </tr>
 
   <tr>
-    <td><img src="../images/v.png" width="400" /></td>
+    <td><img src="../images/v.png" width="800" /></td>
     <td>
       <strong>Information Retrieval (Named Entity Recognition) using Hidden Markov Model 2022</strong><br>
       • Fitting the <strong>HMM</strong> transition and emission parameters with the train set of 6000 documents on MITMovie Dataset.<br>
@@ -84,7 +84,7 @@ author_profile: true
   </tr>
 
   <tr>
-    <td><img src="../images/car.jpg" width="400" /></td>
+    <td><img src="../images/car.jpg" width="800" /></td>
     <td>
       <strong>National Engineering Practice 2021</strong><br>
       In this project, we've custom-built a logistics cart from the ground up. It's designed to automatically detect the color of materials and adeptly place them in their designated spots on the shelves. <br>
