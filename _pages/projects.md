@@ -7,7 +7,7 @@ author_profile: true
 
 <table>
   <tr>
-    <td><img src="../images/stewart.gif" width="800" /></td>
+    <td width="30%"><img src="../images/stewart.gif" width="800" /></td>
     <td>
       <strong>6-DoF Stewart Platform 2024</strong> <br>   
       Supervised by Prof. Mark Yim, the director of GRASP Lab.
