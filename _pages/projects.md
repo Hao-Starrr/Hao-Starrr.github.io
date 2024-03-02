@@ -9,12 +9,14 @@ author_profile: true
   <tr>
     <td width="30%"><img src="../images/stewart.gif" width="800" /></td>
     <td>
+    <div style="font-size:16px;">
       <strong>6-DoF Stewart Platform 2024</strong> <br>   
       Supervised by Prof. Mark Yim, the director of GRASP Lab.
       <br> 
       • Developed a set of <strong>self-calibration algorithms</strong> for it to ensure the accuracy of motion control.<br>
       • Built <strong>PID</strong> position controller for linear actuators’ velocity feedback control with position sensor.<br>
       • Developed and trajectory tracking and <strong>polynomial interpolation</strong> with desired trajectory recorded by <strong>Vicon</strong> Motion Capture System.<br>
+    </div>
     </td>
   </tr>
 
