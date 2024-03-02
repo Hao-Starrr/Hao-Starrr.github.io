@@ -5,6 +5,26 @@ permalink: /projects/
 author_profile: true
 ---
 
+<table>
+  <tr>
+    <td>
+      <img src="../images/slam.png" width=250 />
+    </td>
+    <td>
+    
+      ### Differential Wheeled Robot Lidar SLAM in Indoor Environment 2022
+
+        - Deployed **PRM** and **RRT\*** indoors generating global path in 2.0 second in **Gazebo** simulation environment.
+        - Adapted **MPC** controller in dynamic state lattice following the trajectory, visualized by ROS **Rviz**.
+        - Implement **EKF** against particle filter as localization and achieve 80% time decrease and higher accuracy.
+        - Mapping by **Bresenham's line algorithm** with Lidar and wheel odometry data and corrected by loop closure.
+
+
+    </td>
+
+  </tr>
+</table>
+
 **Differential Wheeled Robot Lidar SLAM in Indoor Environment 2022**  
 • Deployed **PRM** and **RRT\*** indoors generating global path in 2.0 second in **Gazebo** simulation environment.  
 • Adapted **MPC** controller in dynamic state lattice following the trajectory, visualized by ROS **Rviz**.  
