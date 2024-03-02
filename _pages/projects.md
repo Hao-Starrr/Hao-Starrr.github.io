@@ -5,7 +5,22 @@ permalink: /projects/
 author_profile: true
 ---
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 16px;">
+<style>
+  /* 为所有的表格设置样式 */
+  table.myTable {
+    width: 100%; 
+    border-collapse: collapse; 
+    font-size: 16px;
+  }
+
+  /* 针对表格内的单元格和表头去除边框 */
+  table.myTable td, table.myTable th {
+    border: none;
+    padding: 15px; /* 如果需要可以调整内边距 */
+  }
+</style>
+
+<table class="myTable">
 
   <tr>
     <td width="20%"><img src="../images/stewart.gif" width="800" /></td>
