@@ -53,7 +53,7 @@ author_profile: true
   <tr>
     <td width="25%"><img src="../images/uav.png" width="800" /></td>
     <td>
-      <strong>Quadrotor’s Planning and Control 2024 (In Progress)</strong> <br>   
+      <strong>Quadrotor’s Planning and Control 2024 </strong> <br>   
       This project mainly focus on kinodynamic constrained planning and control algorithms of quadrotors.  <br>
       1. As for path planning, a kinodynamic constrained planning algorithm is essentially solving with boundary constrain in the Cartesian space. I implemented <strong>minimum snap</strong> trajectory optimization algorithms based on path that A* gives.  <br>
       2. By applying engineering tricks, such as <strong>diagonal heuristic and cross tie breaker</strong>, I am achieving 20x planning speed improvement in 3D grid map. Further improvement includes integrating dynamic model with state-space planning, such as <strong>State Lattice Search, Kinodynamic RRT*, Hybrid A*</strong> , etc..  <br>
