@@ -29,7 +29,7 @@ author_profile: true
     <td width="25%"><img src="../images/teleop.gif" width="800" /></td>
     <td>
       <strong>VR Teleop Robot Arm 2024 (In Progress)</strong> <br>   
-      I set out to control robots in the most intuitive and natural way imaginable, hence the development of this system. We leverage the cameras on the VR headset to capture the movements of human hands, instantly feeding this data into the ROS system. From there, remapping algorithms take the helm, dictating the robot's movements. Through the VR headset, operators are immersed in the robot's viewpoint, enabling them to provide the most natural and human-like feedback control. Our gesture recognition technology is powered by Ultraleap, while the retargeting algorithm was initially crafted in Python before being meticulously converted to C++.<br>
+      I set out to control robots in the most intuitive and natural way imaginable, hence the development of this system. We leverage the cameras on the VR headset to capture the movements of human hands, instantly feeding this data into the ROS system. From there, retargeting algorithms take the VR, dictating the robot's movements. Through the VR headset, operators are immersed in the robot's viewpoint, enabling them to provide the most natural and human-like feedback control. Our gesture recognition technology is powered by Ultraleap, while the retargeting algorithm was initially crafted in Python before being meticulously converted to C++ for real-time control.<br>
     </td>
   </tr>
 
