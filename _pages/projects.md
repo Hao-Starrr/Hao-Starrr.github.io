@@ -74,7 +74,7 @@ author_profile: true
   <tr>
     <td><img src="../images/vr.gif" width="800" /></td>
     <td>
-      <strong>3D Reconstruction in Augmented Reality Context - Part2 2023</strong><br>
+      <strong>3D Reconstruction in Augmented Reality Context 2023</strong><br>
       • Estimated the homography that maps the video images onto the Penn Engineering logo points.<br>
       • Established world coordinate system by AprilTags and solved <strong>PnP</strong> problem mapping objects to 3D view.<br>
     </td>
@@ -161,9 +161,9 @@ author_profile: true
     <td width="25%"><img src="../images/recon.png" width="800" />
     </td>
     <td>
-      <strong>3D Reconstruction in Augmented Reality Context - Part1 2023</strong><br>
-      • Implemented visual odometry by <strong>optical flow</strong> and visualized the depth map.<br>
-      • Utilized <strong>SIFT</strong> matches and <strong>RANSAC</strong> estimated essential matrix to recover the pose and reconstructed 3D scene.<br>
+      <strong>Mono Visual Odometry (ORB, SIFT) 2023</strong><br>
+      • Implemented mono visual odometry by <strong>optical flow</strong> and visualized the depth map.<br>
+      • Extracted <strong>SIFT, ORB</strong> matches and <strong>RANSAC</strong> estimated essential matrix to recover the pose and reconstructed 3D scene.<br>
     </td>
   </tr>
 
