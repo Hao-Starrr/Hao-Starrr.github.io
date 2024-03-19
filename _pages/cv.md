@@ -34,7 +34,7 @@ redirect_from:
 _Robotics Engineer, Part-Time_
 <span style="float:right;">_Philadelphia, United States_</span>
 
-- Build a 6 degree of freedom Stewart Platform and developed end effector position control system, self-calibration system in C++ can following human movement based on analytical inverse kinematics.
+- Build a 6 degree of freedom Stewart Platform and developed end effector **position control system**, self-calibration system in C++ can following human movement based on analytical inverse kinematics.
 - Developed and trajectory tracking and polynomial interpolation for movement smoothing with desired trajectory recorded by Vicon Motion Capture System.
 
 **Hong Kong Centre for Logistics Robotics**
