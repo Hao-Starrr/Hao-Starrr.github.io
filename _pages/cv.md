@@ -27,35 +27,19 @@ redirect_from:
   - Ranked top 0.3% in the National College Entrance Exam. Top 10 in Shanghai Jiao Tong University’s Independent Admissions Exam.
     <br />
 
-## Competition
+## Research and Intern Experience
 
-**2023 Grant Theft Autonomous**  
-Nov. 2023 - Dec. 2023
+**The Fabric Workshop and Museum**
+<span style="float:right;">Dec. 2023 – March 2024</span>  
+_Robotics Engineer, Part-Time_
+<span style="float:right;">_Philadelphia, United States_</span>
 
-- Led the team in developing an autonomous robot equipped with infrared sensors, **Vive** system, **TOF**, capturing trophies without visual assessment, culminating in **Championship** among 40 teams and interview featured on UPenn campus newspaper.
-- Independently designed the architect of robot including 7 modular systems, made decisions on every details of structure design, electrical layout, library chosen, algorithms and strategies, scored highest in a single game.
-- In charge of the project timelines, task distribution, presentations, managed code by **Git**, ensuring efficient project execution and being the first team checked with full extra credits.
-- Developed **HTML** page using HTTP for robot control and implemented communication protocols in ESP-NOW, along with **PID** controller, leading to improved operational efficiency.
+- Build a 6 degree of freedom Stewart Platform and developed end effector position control system, self-calibration system in C++ can following human movement based on analytical inverse kinematics.
+- Developed and trajectory tracking and polynomial interpolation for movement smoothing with desired trajectory recorded by Vicon Motion Capture System.
 
-**2023 Pick and Place Challenge**  
-Nov. 2023 - Dec. 2023
-
-- Achieved a record-breaking score for the course with 8 blocks. Emerged as the **Champion** in the GRASP Lab annual competition of 20 teams.
-- Developed a noise elimination and axis alignment algorithm for block detection integrated with **Kalman filter**, enhancing the accuracy and robustness of the system, and making grabbing success rate as 100%.
-- Implemented the **offline RRT\*** path planning algorithm compared with **Informed RRT\*** on Franka manipulator with the OOP principle, resolving challenges of collision with noise data with high operational efficiency.
-
-**2021 National Engineering Practice Competition (Logistics Robot)**  
-Jan. 2021 - June 2021
-
-- Won **1st** place in Hong Kong, and **Silver Award** in the national final among 601 teams from 267 universities.
-- Conceptualized and executed the robot’s design, including part selection, fabrication of non-standard parts using laser cutting, **CNC** and **3D printing**, and implementing vision object detection on **OpenMV**.
-- Enhanced motion logic by incorporating additional tracking sensors and improved stability with **speed smoothing** techniques, increasing the robot’s reliability and speed.
-
-## Research and Work Experience
-
-**CUHK T Stone Robotics Institute, Unmanned Systems Research Group**
+**Hong Kong Centre for Logistics Robotics**
 <span style="float:right;">Oct. 2022 – Mar. 2023</span>  
-_Research Assistant_
+_Software Engineer Intern_
 <span style="float:right;">_Hong Kong_</span>
 
 - Deployed topological sparse graphs generation for pre-build volumetric maps, filled the gap between drone mapping and planning based on **CUDA**, achieved autonomous exploration of environment without human intervention.
@@ -80,14 +64,29 @@ _Automation Engineer Intern_
 - Intergrated and tested computer vision algorithm in **OpenCV** for block counting, achieved autonomous quality inspection for blocks production.
 - Modeled the blocks assembly line using **SolidWorks** and regulated the process, achieved autonomous weighing and selection of building blocks.
 
-**Department of Mechanical and Automation Engineering, CUHK**
-<span style="float:right;">May 2020 – Aug. 2020</span>  
-_Research Assistant_
-<span style="float:right;">_Hong Kong_</span>
+## Competition
 
-- Invented new barrier function in **potential field** multi-UAVs control and ensured the time convergence and stability requirement.
-- Derived the dynamic model and simulated UAV positions and speeds using **MATLAB Simulink**, with visualizations that aided in improving control strategies, reflected in Innovation and Creativity Scholarship.
-- Received the annual **Best Project Award**, highlighting the project’s impact on UAV control research.
+**2023 Grant Theft Autonomous**  
+Nov. 2023 - Dec. 2023
+
+- Led the team in developing an autonomous robot equipped with infrared sensors, **Vive** system, **TOF**, capturing trophies without visual assessment, culminating in **Championship** among 40 teams and interview featured on UPenn campus newspaper.
+- Independently designed the architect of robot including 7 modular systems, made decisions on every details of structure design, electrical layout, library chosen, algorithms and strategies, scored highest in a single game.
+- In charge of the project timelines, task distribution, presentations, managed code by **Git**, ensuring efficient project execution and being the first team checked with full extra credits.
+- Developed **HTML** page using HTTP for robot control and implemented communication protocols in ESP-NOW, along with **PID** controller, leading to improved operational efficiency.
+
+**2023 Pick and Place Challenge**  
+Nov. 2023 - Dec. 2023
+
+- Achieved a record-breaking score for the course with 8 blocks. Emerged as the **Champion** in the GRASP Lab annual competition of 20 teams.
+- Developed a noise elimination and axis alignment algorithm for block detection integrated with **Kalman filter**, enhancing the accuracy and robustness of the system, and making grabbing success rate as 100%.
+- Implemented the **offline RRT\*** path planning algorithm compared with **Informed RRT\*** on Franka manipulator with the OOP principle, resolving challenges of collision with noise data with high operational efficiency.
+
+**2021 National Engineering Practice Competition (Logistics Robot)**  
+Jan. 2021 - June 2021
+
+- Won **1st** place in Hong Kong, and **Silver Award** in the national final among 601 teams from 267 universities.
+- Conceptualized and executed the robot’s design, including part selection, fabrication of non-standard parts using laser cutting, **CNC** and **3D printing**, and implementing vision object detection on **OpenMV**.
+- Enhanced motion logic by incorporating additional tracking sensors and improved stability with **speed smoothing** techniques, increasing the robot’s reliability and speed.
 
 ## Leadership and Community Service
 
@@ -115,11 +114,8 @@ March 2021 - May 2021
 
 ## Skills
 
-Programming: C/C++ (main language), Python, MATLAB (Simulink), Java
+Programming: C/C++, Python (SciPy, NumPy, PyTorch, CVXPY), MATLAB (Simulink)
 
-Framework: ROS, CUDA, Qt, Arduino, Embedded Programming
+Framework: ROS/ROS2 (Gazebo, Rviz, MoveIt!, OMPL), CUDA, Qt, Arduino, Embedded Programming
 
 Software: Git, SolidWorks, CAD
-
-Robotics Algorithm: (Planning) A\*, PRM, RRT\*, MPC, (State Estimation) Kalman Filter, EKF, UKF, Particle Filters,
-(Perception) 3D vision, SLAM, basic filter and feature detection, OpenCV
