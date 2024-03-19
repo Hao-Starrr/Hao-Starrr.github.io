@@ -14,7 +14,7 @@ redirect_from:
 
 - **University of Pennsylvania, 2023-2025 (Expected)**
 
-  - Master of Engineering in MEAM Robotics track
+  - Master of Engineering in Robotics
   - GPA: 4.0/4.0
     <br />
 
