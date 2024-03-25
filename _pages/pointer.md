@@ -10,7 +10,7 @@ author_profile: true
 
 Pointer is a striped Tabby cat (矮脚美短加白). Her birthday is April 16 2022 and we knew each other at June 16. She likes purple bags.
 
-Why the name is pointer? Because I was struggling with ORB-SLAM when I met her.
+Why the name is pointer? Because I was struggling with ORB-SLAM when I met her. There are lots of pointers!
 
 <img src="../images/front_face.jpg" width=400 />
 
