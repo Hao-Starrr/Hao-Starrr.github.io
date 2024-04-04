@@ -36,10 +36,10 @@ author_profile: true
       1. SLAM: Based on ROS2, I build the map with SLAM toolbox and particle filter and refined it with OpenCV. <br>
       2. Planning: I defined a global path given by dynamic-aware optimization. Then I implemented a RRT* as local path planning. <br>
       3. Control: I used a PID controller first and then switched to MPC. <br>
-      <u>What's different from other candidates' projects</u>: <br>
-      1. I implemented a <u>safety layer</u> to avoid collision with other vehicles and pedestrians. <br>
-      2. I deployed reactive control layer to increase the car speed <u>3x faster in simple environments</u>. <br> 
-      3. I improved the RRT* with <strong>bias sampling, sample rejection, graph sparsify, delay collision check</strong> and Python computation tricks to <u>decrease the runtime cost by 80%</u>. <br>
+      <strong>What's different from other candidates' projects:</strong> <br>
+      4. I implemented a <u>safety layer</u> to avoid collision with other vehicles and pedestrians. <br>
+      5. I deployed reactive control layer to increase the car speed <u>3x faster in simple environments</u>. <br> 
+      6. I improved the RRT* with <strong>bias sampling, sample rejection, graph sparsify, delay collision check</strong> and Python computation tricks to <u>decrease the runtime cost by 80%</u>. <br>
     </td>
   </tr>
 
@@ -48,7 +48,7 @@ author_profile: true
     <td>
       <strong>Quadrotor’s Planning and Control 2024 </strong> <br>   
       This project realized the state estimation, planning, trajectory optimization, and control of a quadrotor from scratch. <br>
-      <u>What's different from other candidates' projects</u>: <br>
+      <strong>What's different from other candidates' projects:</strong> <br>
       1. State estimation: I implemented <strong>quaternion-based</strong> UKF and complementary filter, which <u>increase 20% efficiency</u> compared with rotation matrices implementation. Because of the computational resource limit, I deployed complementary filter on the onboard IMU. <br>
       2. Path planning: A* is used, as well as engineering tricks, like <strong>diagonal heuristic and cross tie breaker</strong>. I am achieving <u>20x planning speed improvement</u> in 3D grid map. Further improvement includes integrating dynamic model with state-space planning, such as State Lattice Search, Kinodynamic RRT*, Hybrid A* , etc..  <br>
       3. Trajectory optimization: a kinodynamic constrained planning algorithm is essentially solving with boundary constrain in the Cartesian space. I implemented <strong>minimum snap</strong> trajectory optimization algorithms based on path that A* gives.  <br>
@@ -60,7 +60,7 @@ author_profile: true
     <td>
       <strong>Pick and Place Challenge 2023</strong><br>
       The project is aim at pick the static and dynamic blocks and stack them. I led my team to win the <u>first place</u> with excellent and stable algorithms. Find the competition recording at <a href="https://www.youtube.com/watch?v=enAke8V9i44">here</a>.<br>
-      <u>What's different from other candidates' projects</u>: <br>
+      <strong>What's different from other candidates' projects:</strong> <br>
       1. It has a robust pose matching algorithm: i.e., it is always desired that the end effector grabs the block in a certain pose (always with the camera facing forward) <u>even with large error in the pose estimation</u>. <br>
       2. Trajectory planning: I used <strong>RRT* + offline interpolation + velocity profile planning + lookup table speedup</strong>, while other candidates used hardcode position. <u>My method doubled the speed</u>. <br>
     </td>
@@ -163,7 +163,7 @@ author_profile: true
 <table class="myTable">
 
   <tr>
-    <td><img src="../images/map.png" width="800" /></td>
+    <td width="25%"><img src="../images/map.png" width="800" /></td>
     <td>
       <strong>2D Path Planning Interface on OpenStreetMap 2022</strong><br>
       • Implemented <strong>DFS</strong>, <strong>BFS</strong>, <strong>Greedy Best First</strong> compared with A* planning algorithm on building dense 2D map.<br>
