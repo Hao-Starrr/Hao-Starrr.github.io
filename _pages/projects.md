@@ -31,16 +31,15 @@ author_profile: true
     <td width="25%"><img src="../images/racing car.gif" width="800" /></td>
     <td>
       <strong>F1tenth Autonomous Racing Car 2024</strong> <br>   
-      <a href="https://f1tenth.org/index.html">F1tenth</a> is an open-source platform for small-scale autonomous driving, which has long been widely used in teaching and researching autonomous driving-related and autonomous mobile robots, and there have been numerous international events related to it, such as the upcoming <a href="https://icra2024-race.f1tenth.org/">15th F1tenth Autonomous Grand Prix on IEEE ICRA 2024</a>.<br> 
-      I am currently under the tutelage of professor Rahul Mangharam, learning and practicing the various techniques on the autopilot pipeline, including:<br>
-      - ROS2 Frame work<br>
-      - Advanced control theory<br>
-      - Different techniques for localization (SLAM)<br>
-      - Different techniques for the fast and secure path planning<br>
-      - Different methods for detection an object<br>
-      - Sensor fusion<br>
-      - The deployment of software on real hardware and GPU acceleration for machine learning algorithms<br>
-      - SIL and HIL tests<br>
+      This project is based on <a href="https://f1tenth.org/index.html">F1tenth</a>, an open-source platform for small-scale autonomous driving. I implemented the full stack of the algorithm, and I am preparing for the upcoming <a href="https://icra2024-race.f1tenth.org/">15th F1tenth Autonomous Grand Prix on IEEE ICRA 2024</a>. (The video is at 1.0x speed). <br>
+      Pipeline:<br>
+      1. SLAM: Based on ROS2, I build the map with SLAM toolbox and particle filter and refined it with OpenCV. <br>
+      2. Planning: I defined a global path given by dynamic-aware optimization. Then I implemented a RRT* as local path planning. <br>
+      3. Control: I used a PID controller first and then switched to MPC. <br>
+      <u>What's different from other candidates' projects</u>: <br>
+      1. I implemented a <u>safety layer</u> to avoid collision with other vehicles and pedestrians. <br>
+      2. I deployed reactive control layer to increase the car speed <u>3x faster in simple environments</u>. <br> 
+      3. I improved the RRT* with bias sampling, sample rejection, graph sparsify, delay collision check and Python computation tricks to <u>decrease the runtime cost by 80%</u>. <br>
     </td>
   </tr>
 
@@ -48,12 +47,23 @@ author_profile: true
     <td width="25%"><img src="../images/uav.gif" width="800" /></td>
     <td>
       <strong>Quadrotor’s Planning and Control 2024 </strong> <br>   
-      This project mainly focus on kinodynamic constrained planning and control algorithms of quadrotors.  <br>
-      1. As for path planning, a kinodynamic constrained planning algorithm is essentially solving with boundary constrain in the Cartesian space. I implemented <strong>minimum snap</strong> trajectory optimization algorithms based on path that A* gives.  <br>
-      2. By applying engineering tricks, such as <strong>diagonal heuristic and cross tie breaker</strong>, I am achieving 20x planning speed improvement in 3D grid map. Further improvement includes integrating dynamic model with state-space planning, such as <strong>State Lattice Search, Kinodynamic RRT*, Hybrid A*</strong> , etc..  <br>
-      3. As for control algorithms, in order to adapt more easily to physical constraints and to adapt to rapidly changing environments and tasks, compared with Model-Based Controllers, we consider <strong>geometrically nonlinear controllers</strong>. <br>
-      4. As for state estimation, I used <strong>quaternion-based UKF</strong> to estimate the state of the quadrotor, which includes orientation and angular velocity. <br>
-      5. At the hardware level, the CrazyFlie 2.1 was used for realistic demonstrations. A microcomputer is responsible for low-level control and estimation, while the onboard IMU provides feedback of angular velocities and accelerations. The attitude and thrust commands are sent to the quadrotor  after being computed in python. To evaluate the trajectory of the quadrotor, we may use a Vicon Motion Capture System to record feedback pose data.
+      This project realized the state estimation, planning, trajectory optimization, and control of a quadrotor from scratch. <br>
+      <u>What's different from other candidates' projects</u>: <br>
+      1. State estimation: I implemented <strong>quaternion-based</strong> UKF and complementary filter, which <u>increase 20% efficiency</u> compared with rotation matrices implementation. Because of the computational resource limit, I deployed complementary filter on the onboard IMU. <br>
+      2. Path planning: A* is used, as well as engineering tricks, like <strong>diagonal heuristic and cross tie breaker</strong>. I am achieving <u>20x planning speed improvement</u> in 3D grid map. Further improvement includes integrating dynamic model with state-space planning, such as State Lattice Search, Kinodynamic RRT*, Hybrid A* , etc..  <br>
+      3. Trajectory optimization: a kinodynamic constrained planning algorithm is essentially solving with boundary constrain in the Cartesian space. I implemented <strong>minimum snap</strong> trajectory optimization algorithms based on path that A* gives.  <br>
+      4. Control: In order to adapt more easily to physical constraints and to adapt to rapidly changing environments and tasks, compared with Model-Based Controllers, I considered <strong>geometrically nonlinear controllers</strong>. <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%"><img src="../images/520.gif" width="800" /></td>
+    <td>
+      <strong>Pick and Place Challenge 2023</strong><br>
+      The project is aim at pick the static and dynamic blocks and stack them. I led my team to win the <u>first place</u> with excellent and stable algorithms. Find the competition recording at <a href="https://www.youtube.com/watch?v=enAke8V9i44">here</a>.<br>
+      <u>What's different from other candidates' projects</u>: <br>
+      1. It has a robust pose matching algorithm: i.e., it is always desired that the end effector grabs the block in a certain pose (always with the camera facing forward) <u>even with large error in the pose estimation</u>. <br>
+      2. Trajectory planning: I used <strong>RRT* + offline interpolation + velocity profile planning + lookup table speedup</strong>, while other candidates used hardcode position. <u>My method doubled the speed</u>. <br>
     </td>
   </tr>
 
@@ -152,18 +162,6 @@ author_profile: true
 ## Planning
 
 <table class="myTable">
-
-  <tr>
-    <td width="25%"><img src="../images/520.gif" width="800" /></td>
-    <td>
-      <strong>Pick and Place Challenge 2023</strong><br>
-      I led my team to win the <u>first place</u> with excellent and stable algorithms. <br>
-      1. solve the position of an object in the world coordinate system based on the graphic coding information detected by the camera and the rigid-body transformation law;<br>
-      2. a pose matching algorithm: i.e., it is always desired that the end effector grabs the wooden block in a certain pose (always with the camera facing forward);<br>
-      3. trajectory planning: RRT* + offline interpolation + velocity profile planning + lookup table speedup. <br>
-      • Find the competition recording at <a href="https://www.youtube.com/watch?v=enAke8V9i44">GRASP Lab Youtube Channel</a>.<br>
-    </td>
-  </tr>
 
   <tr>
     <td><img src="../images/map.png" width="800" /></td>
