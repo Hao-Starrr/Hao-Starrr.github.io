@@ -23,18 +23,162 @@ author_profile: true
   }
 </style>
 
-## Manipulators and Teleoperation
+## Integrated System
 
 <table class="myTable">
 
- <tr>
-    <td width="25%"><img src="../images/teleop.gif" width="800" /></td>
+  <tr>
+    <td width="25%"><img src="../images/racing car.gif" width="800" /></td>
     <td>
-      <strong>VR Teleop Robot Arm 2024 </strong> <br>   
-      I set out to control robots in the most intuitive and natural way imaginable, hence the development of this system. We leverage the cameras on the VR headset to capture the movements of human hands, instantly feeding this data into the ROS system. From there, retargeting algorithms take the VR, dictating the robot's movements. Through the VR headset, operators are immersed in the robot's viewpoint, enabling them to provide the most natural and human-like feedback control. Our gesture recognition technology is powered by Ultraleap, while the retargeting algorithm was initially crafted in Python before being meticulously converted to C++ for real-time control.<br>
+      <strong>F1tenth Autonomous Racing Car 2024</strong> <br>   
+      <a href="https://f1tenth.org/index.html">F1tenth</a> is an open-source platform for small-scale autonomous driving, which has long been widely used in teaching and researching autonomous driving-related and autonomous mobile robots, and there have been numerous international events related to it, such as the upcoming <a href="https://icra2024-race.f1tenth.org/">15th F1tenth Autonomous Grand Prix on IEEE ICRA 2024</a>.<br> 
+      I am currently under the tutelage of professor Rahul Mangharam, learning and practicing the various techniques on the autopilot pipeline, including:<br>
+      - ROS2 Frame work<br>
+      - Advanced control theory<br>
+      - Different techniques for localization (SLAM)<br>
+      - Different techniques for the fast and secure path planning<br>
+      - Different methods for detection an object<br>
+      - Sensor fusion<br>
+      - The deployment of software on real hardware and GPU acceleration for machine learning algorithms<br>
+      - SIL and HIL tests<br>
     </td>
-
   </tr>
+
+  <tr>
+    <td width="25%"><img src="../images/uav.gif" width="800" /></td>
+    <td>
+      <strong>Quadrotor’s Planning and Control 2024 </strong> <br>   
+      This project mainly focus on kinodynamic constrained planning and control algorithms of quadrotors.  <br>
+      1. As for path planning, a kinodynamic constrained planning algorithm is essentially solving with boundary constrain in the Cartesian space. I implemented <strong>minimum snap</strong> trajectory optimization algorithms based on path that A* gives.  <br>
+      2. By applying engineering tricks, such as <strong>diagonal heuristic and cross tie breaker</strong>, I am achieving 20x planning speed improvement in 3D grid map. Further improvement includes integrating dynamic model with state-space planning, such as <strong>State Lattice Search, Kinodynamic RRT*, Hybrid A*</strong> , etc..  <br>
+      3. As for control algorithms, in order to adapt more easily to physical constraints and to adapt to rapidly changing environments and tasks, compared with Model-Based Controllers, we consider <strong>geometrically nonlinear controllers</strong>. <br>
+      4. As for state estimation, I used <strong>quaternion-based UKF</strong> to estimate the state of the quadrotor, which includes orientation and angular velocity. <br>
+      5. At the hardware level, the CrazyFlie 2.1 was used for realistic demonstrations. A microcomputer is responsible for low-level control and estimation, while the onboard IMU provides feedback of angular velocities and accelerations. The attitude and thrust commands are sent to the quadrotor  after being computed in python. To evaluate the trajectory of the quadrotor, we may use a Vicon Motion Capture System to record feedback pose data.
+    </td>
+  </tr>
+
+</table>
+
+## Perception
+
+<table class="myTable">
+
+  <tr>
+    <td width="25%"><img src="../images/vo.gif" width="800" /></td>
+    <td>
+      <strong>Mono ORB Visual Odometry 2023</strong><br>
+      A minimum python version mono visual odometry. <br>
+      Pipeline: <br>
+      1. Frame Processing: Converts each frame to grayscale to simplify and expedite subsequent feature detection and matching steps.<br>
+      2. Feature Extraction and Matching: Leverages ORB for efficient feature detection and FLANN with LSH for fast, accurate feature matching, optimizing the identification of corresponding points across frames.<br>
+      3. Motion Estimation: Uses RANSAC for robust Essential Matrix estimation to derive precise rotation and translation matrices, filtering outliers and ensuring reliable motion estimation.<br>
+      4. Pose Update: Updates camera pose using calculated motion vectors, generating precise projection matrices for depth estimation and 3D reconstruction.<br>
+      5. Triangulation: Triangulates matching points between successive frames to reconstruct 3D scene geometry, utilizing the camera's intrinsic parameters and updated poses for spatial reconstruction.<br>
+      • Further improvement can be on G2O pose optimization, database maintainance, and multi-threading for faster processing.<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="../images/stereo.gif" width="800" /></td>
+    <td>
+    <strong>Stereo Vision 2023</strong><br>
+      Reconstructe the objects from stereo camera data. <br>
+      Pipeline: <br>
+      1. Rectification: Implemented camera rectification using rotation matrices and homography to align stereo images for accurate depth mapping.<br>
+      2. Disparity Mapping: Engineered algorithms to calculate disparity maps from stereo images, utilizing SSD, SAD, and ZNCC metrics for pixel comparison.<br>
+      3. Point Cloud: Converted disparity maps into depth maps, then back-projected to create precise 3D point clouds of the scene.<br>
+      4. Visualization: Utilized K3D and Plotly libraries for real-time visualization of 3D reconstructions, facilitating immediate analytical insights.<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="../images/nerf.gif" width="800" /></td>
+    <td>
+    <strong>NeRF 2023</strong><br>
+      A implementation of NeRF (Neural Radiance Field) by PyTorch for rendering novel views of objects.<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="../images/vr.gif" width="800" /></td>
+    <td>
+      <strong>Augmented Reality 2023</strong><br>
+      I rendered the virtual objects of the drill and the bottle in a video by first estimating the camera pose using the info on the AprilTag, using either P3P (3-point correspondence) or PnP (n-point correspondence) approach from scratch (nonOpenCV implementation).<br>
+    </td>
+  </tr>
+
+</table>
+
+## Decision
+
+<table class="myTable">
+
+  <tr>
+    <td width="25%"><img src="../images/PolicyIteration.gif" width="800" /></td>
+    <td>
+    <strong>Policy Iteration Planning 2022</strong><br>
+      The robot moving in grid map with obstacles and rewards. We can find the optimal trajectory by using policy iteration algorithm. In every step, we update the cost/reward and policy of the robot. <br>
+      The robot can move in four directions (north, east, west, and south) with some stochasticity. The goal is to maximize the expected discounted reward over an infinite time horizon.<br>
+      By iterating enough times, we can find the optimal policy that maximizes the expected discounted reward in every place to guide the movement. <br>
+    </td>
+  </tr>
+
+</table>
+
+## SLAM
+
+<table class="myTable">
+
+  <tr>
+    <td width="25%"><img src="../images/slam.gif" width="800" /></td>
+    <td>
+    <strong>Humanoid Robot SLAM 2023</strong><br>
+      I implement particle filter SLAM in an indoor environment using information from an IMU and a LiDAR sensor. The data is collected from a humanoid robot named THOR built at Penn and UCLA. Find a video about the robot <a href="https://www.youtube.com/watch?v=JhWYYuba1nE">here</a>. The goal is to estimate the robot's pose and build an occupancy grid map of the surroundings.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="../images/slam.png" width="800" /></td>
+    <td>
+      <strong>Differential Wheeled Robot Lidar SLAM in Indoor Environment 2022</strong><br>
+      • Deployed <strong>PRM</strong> and <strong>RRT*</strong> indoors generating global path in 2.0 second in <strong>Gazebo</strong> simulation environment.<br>
+      • Adapted <strong>MPC</strong> controller in dynamic state lattice following the trajectory, visualized by ROS <strong>Rviz</strong>.<br>
+      • Implement <strong>EKF</strong> against particle filter as localization and achieve 80% time decrease and higher accuracy.<br>
+    </td>
+  </tr>
+
+</table>
+
+## Planning
+
+<table class="myTable">
+
+  <tr>
+    <td width="25%"><img src="../images/520.gif" width="800" /></td>
+    <td>
+      <strong>Pick and Place Challenge 2023</strong><br>
+      I led my team to win the <u>first place</u> with excellent and stable algorithms. <br>
+      1. solve the position of an object in the world coordinate system based on the graphic coding information detected by the camera and the rigid-body transformation law;<br>
+      2. a pose matching algorithm: i.e., it is always desired that the end effector grabs the wooden block in a certain pose (always with the camera facing forward);<br>
+      3. trajectory planning: RRT* + offline interpolation + velocity profile planning + lookup table speedup. <br>
+      • Find the competition recording at <a href="https://www.youtube.com/watch?v=enAke8V9i44">GRASP Lab Youtube Channel</a>.<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="../images/map.png" width="800" /></td>
+    <td>
+      <strong>2D Path Planning Interface on OpenStreetMap 2022</strong><br>
+      • Implemented <strong>DFS</strong>, <strong>BFS</strong>, <strong>Greedy Best First</strong> compared with A* planning algorithm on building dense 2D map.<br>
+      • Improved <strong>weighted A*</strong> setting cost function based on real-time traffic and road conditions. <br>
+      • Developed algorithm visualization GUI interface interact with mouse clicking by <strong>JAVA</strong>.<br>
+    </td>
+  </tr>
+</table>
+
+## Control and Hardware
+
+<table class="myTable">
 
   <tr>
     <td width="25%"><img src="../images/stewart.gif" width="800" /></td>
@@ -50,68 +194,14 @@ author_profile: true
   </tr>
 
   <tr>
-    <td><img src="../images/waldo.gif" width="800" /></td>
+    <td><img src="../images/car.jpg" width="800" /></td>
     <td>
-      <strong>Waldo (remote manipulator) 2023</strong><br>
-      It is a low-cost waldo device that shows a minimum function of remote manipulator. The main structure is 3D printed. I use a potentiometer as input, filtered the signal and output the PWM signal to control the SG90 servo. The input device DOF is the same as the output DOF, which avoids the inverse kinematics calculation. <br> 
-      I am hoping to build a larger system with advanced algorithms and functions like <a href="https://mobile-aloha.github.io/">Mobile ALOHA</a> or <a href="https://github.com/peng-zhihui/Dummy-Robot?tab=readme-ov-file#dummy-robot-super-compact-smart-robotic-arm">Dummy-Robot by Zhihui</a>. If your company are interested in one of these projects, please contact me. 
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="../images/520.jpg" width="800" /></td>
-    <td>
-      <strong>Pick and Place Challenge 2023</strong><br>
-      I led my team to win the first place with excellent and stable algorithms, and the attached video captures the winning moment. The project used the following techniques:<br>
-      1. solve the position of an object in the world coordinate system based on the graphic coding information detected by the camera and the rigid-body transformation law;<br>
-      2. a pose matching algorithm: i.e., it is always desired that the end effector grabs the wooden block in a certain pose (always with the camera facing forward);<br>
-      3. trajectory planning algorithm: the RRT* algorithm is used for trajectory planning in Cartesian space, and the obstacle avoidance algorithm is specially developed for the robotic arm gripper jaws;<br>
-      4. inverse kinematics solving and velocity tracking: numerical optimization is used to solve the inverse kinematics for the position and velocity of each path point on the trajectory;<br>
-      • Find the competition recording at <a href="https://www.youtube.com/watch?v=enAke8V9i44">GRASP Lab Youtube Channel</a>.<br>
-    </td>
-  </tr>
-  
-  <tr>
-    <td><img src="../images/vr.gif" width="800" /></td>
-    <td>
-      <strong>3D Reconstruction in Augmented Reality Context 2023</strong><br>
-      • Estimated the homography that maps the video images onto the Penn Engineering logo points.<br>
-      • Established world coordinate system by AprilTags and solved <strong>PnP</strong> problem mapping objects to 3D view.<br>
-    </td>
-  </tr>
-</table>
-
-## Mobile Robots
-
-<table class="myTable">
-
-  <tr>
-    <td width="25%"><img src="../images/racing car.png" width="800" /></td>
-    <td>
-      <strong>F1tenth Autonomous Racing Car 2024 (In Progress)</strong> <br>   
-      <a href="https://f1tenth.org/index.html">F1tenth</a> is an open-source platform for small-scale autonomous driving, which has long been widely used in teaching and researching autonomous driving-related and autonomous mobile robots, and there have been numerous international events related to it, such as the upcoming <a href="https://icra2024-race.f1tenth.org/">15th F1tenth Autonomous Grand Prix on IEEE ICRA 2024</a>.<br> 
-      I am currently under the tutelage of professor Rahul Mangharam, learning and practicing the various techniques on the autopilot pipeline, including:<br>
-      - ROS2 Frame work<br>
-      - Advanced control theory<br>
-      - Different techniques for localization (SLAM)<br>
-      - Different techniques for the fast and secure path planning<br>
-      - Different methods for detection an object<br>
-      - Sensor fusion<br>
-      - The deployment of software on real hardware and GPU acceleration for machine learning algorithms<br>
-      - SIL and HIL tests<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%"><img src="../images/uav.png" width="800" /></td>
-    <td>
-      <strong>Quadrotor’s Planning and Control 2024 </strong> <br>   
-      This project mainly focus on kinodynamic constrained planning and control algorithms of quadrotors.  <br>
-      1. As for path planning, a kinodynamic constrained planning algorithm is essentially solving with boundary constrain in the Cartesian space. I implemented <strong>minimum snap</strong> trajectory optimization algorithms based on path that A* gives.  <br>
-      2. By applying engineering tricks, such as <strong>diagonal heuristic and cross tie breaker</strong>, I am achieving 20x planning speed improvement in 3D grid map. Further improvement includes integrating dynamic model with state-space planning, such as <strong>State Lattice Search, Kinodynamic RRT*, Hybrid A*</strong> , etc..  <br>
-      3. As for control algorithms, in order to adapt more easily to physical constraints and to adapt to rapidly changing environments and tasks, compared with Model-Based Controllers, we consider <strong>geometrically nonlinear controllers</strong>. <br>
-      4. As for state estimation, I used <strong>quaternion-based UKF</strong> to estimate the state of the quadrotor, which includes orientation and angular velocity. <br>
-      5. At the hardware level, the CrazyFlie 2.1 was used for realistic demonstrations. A microcomputer is responsible for low-level control and estimation, while the onboard IMU provides feedback of angular velocities and accelerations. The attitude and thrust commands are sent to the quadrotor  after being computed in python. To evaluate the trajectory of the quadrotor, we may use a Vicon Motion Capture System to record feedback pose data.
+      <strong>National Engineering Practice 2021</strong><br>
+      <u>National Silver Prize</u> amongst over two hundred universities. <br>
+      In this project, we've custom-built a logistics cart from the ground up. It's designed to automatically detect the color of objects and adeptly place them in their designated spots on the shelves. <br>
+      After implementing an array of sophisticated control strategies for tracking and precise positioning, we discovered that a finely-tuned hard-coded speed control, especially after refining the curve trajectories, offered the most reliable performance. This experience underscored a valuable lesson: complexity isn't inherently superior; adaptability and tailoring solutions to meet specific demands are crucial. Our approach paid off handsomely. <br>
+      • Find video <a href="https://youtu.be/IHseo0RF8Oc">here</a>.<br>
+      • The result was featured in <a href="https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/">the website of MAE department</a>.<br>
     </td>
   </tr>
 
@@ -119,7 +209,7 @@ author_profile: true
     <td><img src="../images/510.jpg" width="800" /></td>
     <td>
       <strong>Grant Theft Autonomous 2023</strong><br>
-      In this competition I also led my team to win the first place. The attached video captures the winning moment. The project used the following techniques:<br>
+      In this competition I also led my team to win the <u>first place</u>. <br>
       1. Designed a unique robot mechanical structure, circuit structure. And  designed a number of functional modules that can be mounted on to the robot based on the modularization design idea and the principle of expandable;<br>
       2. In terms of control, the motor control circuit is designed and the PID speed control algorithm is implemented to achieve a good dynamic tracking effect on the speed profile;<br>
       3. Using TOF, photoresistor as the main sensing tool and Vive system as the main localization tool, based on which we realized the functions of roving wall, capturing special frequency light source signals and automatically navigating to the source, and automatic grasping;<br>
@@ -130,59 +220,11 @@ author_profile: true
   </tr>
 
   <tr>
-    <td><img src="../images/slam.png" width="800" /></td>
+    <td><img src="../images/waldo.gif" width="800" /></td>
     <td>
-      <strong>Differential Wheeled Robot Lidar SLAM in Indoor Environment 2022</strong><br>
-      • Deployed <strong>PRM</strong> and <strong>RRT*</strong> indoors generating global path in 2.0 second in <strong>Gazebo</strong> simulation environment.<br>
-      • Adapted <strong>MPC</strong> controller in dynamic state lattice following the trajectory, visualized by ROS <strong>Rviz</strong>.<br>
-      • Implement <strong>EKF</strong> against particle filter as localization and achieve 80% time decrease and higher accuracy.<br>
-      • Mapping by <strong>Bresenham's line algorithm</strong> with Lidar and wheel odometry data and corrected by loop closure.<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="../images/car.jpg" width="800" /></td>
-    <td>
-      <strong>National Engineering Practice 2021</strong><br>
-      In this project, we've custom-built a logistics cart from the ground up. It's designed to automatically detect the color of materials and adeptly place them in their designated spots on the shelves. <br>
-      • Find video <a href="https://youtu.be/IHseo0RF8Oc">here</a>.<br>
-      After implementing an array of sophisticated control strategies for tracking and precise positioning, we discovered that a finely-tuned hard-coded speed control, especially after refining the curve trajectories, offered the most reliable performance. This experience underscored a valuable lesson: complexity isn't inherently superior; adaptability and tailoring solutions to meet specific demands are crucial. Our approach paid off handsomely as we clinched the silver award in the national competition, standing out amongst over two hundred universities.<br>
-      • The result was featured in <a href="https://www4.mae.cuhk.edu.hk/newsnawards/silver-award-in-the-national-finals-of-the-2021-china-university-students-engineering-practice-and-innovation-ability-competition/">the website of MAE department</a>.<br>
-    </td>
-  </tr>
-  
-</table>
-
-## Perception and Planning Algorithms
-
-<table class="myTable">
-
-  <tr>
-    <td width="25%"><img src="../images/recon.png" width="800" />
-    </td>
-    <td>
-      <strong>Mono Visual Odometry (ORB, SIFT) 2023</strong><br>
-      • Implemented mono visual odometry by <strong>optical flow</strong> and visualized the depth map.<br>
-      • Extracted <strong>SIFT, ORB</strong> matches and <strong>RANSAC</strong> estimated essential matrix to recover the pose and reconstructed 3D scene.<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="../images/map.png" width="800" /></td>
-    <td>
-      <strong>2D Path Planning Interface on OpenStreetMap 2022</strong><br>
-      • Implemented <strong>DFS</strong>, <strong>BFS</strong>, <strong>Greedy Best First</strong> compared with A* planning algorithm on building dense 2D map.<br>
-      • Improved <strong>weighted A*</strong> setting cost function based on real-time traffic and road conditions. <br>
-      • Developed algorithm visualization GUI interface interact with mouse clicking by <strong>JAVA</strong>.<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="../images/v.png" width="800" /></td>
-    <td>
-      <strong>Information Retrieval (Named Entity Recognition) using Hidden Markov Model 2022</strong><br>
-      • Fitting the <strong>HMM</strong> transition and emission parameters with the train set of 6000 documents on MITMovie Dataset.<br>
-      • Implemented <strong>Viterbi</strong> algorithm and Laplace smoothing achieving 98% accuracy on 2000 test documents.<br>
+      <strong>Waldo (remote manipulator) 2023</strong><br>
+      It is a low-cost waldo device that shows a minimum function of remote manipulator. The main structure is 3D printed. I use a potentiometer as input, filtered the signal and output the PWM signal to control the SG90 servo. The input device DOF is the same as the output DOF, which avoids the inverse kinematics calculation. <br> 
+      • I am hoping to build a larger system with advanced algorithms and functions like <a href="https://mobile-aloha.github.io/">Mobile ALOHA</a> or <a href="https://github.com/peng-zhihui/Dummy-Robot?tab=readme-ov-file#dummy-robot-super-compact-smart-robotic-arm">Dummy-Robot by Zhihui</a>. If your company are interested in one of these projects, please contact me. 
     </td>
   </tr>
 
