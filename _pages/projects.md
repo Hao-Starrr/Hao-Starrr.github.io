@@ -39,7 +39,7 @@ author_profile: true
       <u>What's different from other candidates' projects</u>: <br>
       1. I implemented a <u>safety layer</u> to avoid collision with other vehicles and pedestrians. <br>
       2. I deployed reactive control layer to increase the car speed <u>3x faster in simple environments</u>. <br> 
-      3. I improved the RRT* with bias sampling, sample rejection, graph sparsify, delay collision check and Python computation tricks to <u>decrease the runtime cost by 80%</u>. <br>
+      3. I improved the RRT* with <strong>bias sampling, sample rejection, graph sparsify, delay collision check</strong> and Python computation tricks to <u>decrease the runtime cost by 80%</u>. <br>
     </td>
   </tr>
 
@@ -52,7 +52,6 @@ author_profile: true
       1. State estimation: I implemented <strong>quaternion-based</strong> UKF and complementary filter, which <u>increase 20% efficiency</u> compared with rotation matrices implementation. Because of the computational resource limit, I deployed complementary filter on the onboard IMU. <br>
       2. Path planning: A* is used, as well as engineering tricks, like <strong>diagonal heuristic and cross tie breaker</strong>. I am achieving <u>20x planning speed improvement</u> in 3D grid map. Further improvement includes integrating dynamic model with state-space planning, such as State Lattice Search, Kinodynamic RRT*, Hybrid A* , etc..  <br>
       3. Trajectory optimization: a kinodynamic constrained planning algorithm is essentially solving with boundary constrain in the Cartesian space. I implemented <strong>minimum snap</strong> trajectory optimization algorithms based on path that A* gives.  <br>
-      4. Control: In order to adapt more easily to physical constraints and to adapt to rapidly changing environments and tasks, compared with Model-Based Controllers, I considered <strong>geometrically nonlinear controllers</strong>. <br>
     </td>
   </tr>
 
