@@ -33,13 +33,14 @@ author_profile: true
       <strong>F1tenth Autonomous Racing Car 2024</strong> <br>   
       This project is based on <a href="https://f1tenth.org/index.html">F1tenth</a>, an open-source platform for small-scale autonomous driving. I implemented the full stack of the algorithm, and I am preparing for the upcoming <a href="https://icra2024-race.f1tenth.org/">15th F1tenth Autonomous Grand Prix on IEEE ICRA 2024</a>. (The video is at 1.0x speed). <br>
       Pipeline:<br>
-      1. SLAM: Based on ROS2, I build the map with SLAM toolbox and particle filter and refined it with OpenCV. <br>
-      2. Planning: I defined a global path given by dynamic-aware optimization. Then I implemented a RRT* as local path planning. <br>
-      3. Control: I used a PID controller first and then switched to MPC. <br>
+      Stage 1: Reactive control, follow the gap and avoid obstacles. <br>
+      Stage 2: Pre-build map, interpolating the global path, particle filter localization, PID controller. <br>
+      Stage 3: Built the map by SLAM toolbox and refined by OpenCV, time optimized global path, RRT* as local path planning and geometric controller. <br>
+      Stage 4: MPC as local planner and controller with dynamic model. <br>
+      Stage 5: To be determined. <br>
       <strong>What's different from other candidates' projects:</strong> <br>
-      4. I implemented a <u>safety layer</u> to avoid collision with other vehicles and pedestrians. <br>
-      5. I deployed reactive control layer to increase the car speed <u>3x faster in simple environments</u>. <br> 
-      6. I improved the RRT* with <strong>bias sampling, sample rejection, graph sparsify, delay collision check</strong> and Python computation tricks to <u>decrease the runtime cost by 80%</u>. <br>
+      1. I implemented a <u>safety layer</u> to avoid collision with other vehicles and pedestrians. <br>
+      2. I improved the RRT* with <strong>bias sampling, sample rejection, graph sparsify, delay collision check</strong> and Python computation tricks to <u>decrease the runtime cost by 80%</u>. <br>
     </td>
   </tr>
 
