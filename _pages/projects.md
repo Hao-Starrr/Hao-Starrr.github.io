@@ -36,7 +36,7 @@ author_profile: true
       Stage 1: Reactive control, follow the gap and avoid obstacles. <br>
       Stage 2: Pre-build map, interpolating the global path, particle filter localization, PID controller. <br>
       Stage 3: Built the map by SLAM toolbox and refined by OpenCV, time optimized global path, RRT* as local path planning and geometric controller. <br>
-      Stage 4: MPC as local planner and controller with dynamic model. <br>
+      Stage 4: MPC as local planner and controller with kinematic model. <br>
       Stage 5: To be determined. <br>
       <strong>What's different from other candidates' projects:</strong> <br>
       1. I implemented a <u>safety layer</u> to avoid collision with other vehicles and pedestrians. <br>
