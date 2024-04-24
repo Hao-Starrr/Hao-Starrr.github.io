@@ -179,19 +179,6 @@ author_profile: true
 <table class="myTable">
 
   <tr>
-    <td width="25%"><img src="../images/stewart.gif" width="800" /></td>
-    <td>
-      <strong>6-DoF Stewart Platform 2024</strong> <br>   
-      Supervised by Prof. Mark Yim, the director of GRASP Lab.
-      <br> 
-      • Developed a set of <strong>self-calibration algorithms</strong> for it to ensure the accuracy of motion control.<br>
-      • Built <strong>PD</strong> position controller for linear actuators’ velocity feedback control with position sensor.<br>
-      • Developed and trajectory tracking and <strong>polynomial interpolation</strong> with desired trajectory recorded by <strong>Vicon</strong> Motion Capture System.<br>
-      • Find the code <a href="https://github.com/Hao-Starrr/Stewart-Platform">here</a>.<br>
-    </td>
-  </tr>
-
-  <tr>
     <td><img src="../images/car.jpg" width="800" /></td>
     <td>
       <strong>National Engineering Practice 2021</strong><br>
@@ -223,6 +210,18 @@ author_profile: true
       <strong>Waldo (remote manipulator) 2023</strong><br>
       It is a low-cost waldo device that shows a minimum function of remote manipulator. The main structure is 3D printed. I use a potentiometer as input, filtered the signal and output the PWM signal to control the SG90 servo. The input device DOF is the same as the output DOF, which avoids the inverse kinematics calculation. <br> 
       • I am hoping to build a larger system with advanced algorithms and functions like <a href="https://mobile-aloha.github.io/">Mobile ALOHA</a> or <a href="https://github.com/peng-zhihui/Dummy-Robot?tab=readme-ov-file#dummy-robot-super-compact-smart-robotic-arm">Dummy-Robot by Zhihui</a>. If your company are interested in one of these projects, please contact me. 
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%"><img src="../images/stewart.gif" width="800" /></td>
+    <td>
+      <strong>6-DoF Stewart Platform 2024</strong> <br>   
+      Because of the achievement in Grant Theft Autonomous 2023, I was invited by Prof. Mark Yim, the director of GRASP Lab, to make the 6-DoF Stewart platform for UPenn Design School. <br> 
+      • Developed a set of <strong>self-calibration algorithms</strong> for it to ensure the accuracy of motion control.<br>
+      • Built <strong>PD</strong> position controller for linear actuators’ velocity feedback control with position sensor.<br>
+      • Developed and trajectory tracking and <strong>polynomial interpolation</strong> with desired trajectory recorded by <strong>Vicon</strong> Motion Capture System.<br>
+      • Find the code <a href="https://github.com/Hao-Starrr/Stewart-Platform">here</a>.<br>
     </td>
   </tr>
 
