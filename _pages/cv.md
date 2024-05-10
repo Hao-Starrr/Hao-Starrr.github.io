@@ -21,7 +21,7 @@ redirect_from:
 - **The Chinese University of Hong Kong, 2019-2023**
 
   - Bachelor of Engineering in Mechanical and Automation Engineering
-  - **Rank 1/128**, Overall GPA: 3.81/4.00, Major GPA: 3.94/4.00
+  - **Rank 1/128**
   - Exchanged to University of Toronto in Robotics, 3 graduate-level courses with A/A+ grade in junior year.
   - Elite Scholarship (4 years), Yu To Sang Memorial Scholarship (3 years) and total 16 scholarships and honors over 120k HKD.
   - Ranked top 0.3% in the National College Entrance Exam. Top 5 in Shanghai Jiao Tong University’s Independent Admissions Exam.
