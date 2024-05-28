@@ -20,11 +20,10 @@ redirect_from:
 
 - **The Chinese University of Hong Kong, 2019-2023**
 
-  - Bachelor of Engineering in Mechanical and Automation Engineering
-  - **Rank 1/128**
-  - Exchanged to University of Toronto in Robotics, 3 graduate-level courses with A/A+ grade in junior year.
+  - **Rank 1/128**, Bachelor of Engineering in Mechanical and Automation Engineering
+  - Top 5 in Shanghai Jiao Tong University Independent Admissions Exam.
+  - Ranked top 0.3% in the National College Entrance Exam.
   - Elite Scholarship (4 years), Yu To Sang Memorial Scholarship (3 years) and total 16 scholarships and honors over 120k HKD.
-  - Ranked top 0.3% in the National College Entrance Exam. Top 5 in Shanghai Jiao Tong University’s Independent Admissions Exam.
     <br />
 
 ## Research and Intern Experience
@@ -34,7 +33,7 @@ redirect_from:
 _Robotics Engineer_
 <span style="float:right;">_Shanghai, China_</span>
 
-- Keywords: NA
+- Keywords: Teleoperation
 
 **The Fabric Workshop and Museum**
 <span style="float:right;">Dec. 2023 – March 2024</span>  
@@ -77,7 +76,7 @@ _Research Assistant_
 **2024 F1Tenth Racing**
 <span style="float:right;">Jan. 2024 - Apr. 2024</span>
 
-- Achieved **2nd** place in the 2024 F1Tenth Racing in collaboration competition of CMU and UPenn. Secured the qualification to represent team at the 15th F1Tenth Autonomous Grand Prix at IEEE **ICRA** 2024.
+- Achieved **2nd** place in the 2024 F1Tenth Racing in collaboration competition of CMU and UPenn. Secured the qualification to represent team at the 15th F1Tenth Autonomous Grand Prix at **IEEE ICRA 2024**.
 - Keywords: MPC, Path Planning, Trajectory Tracking, Autonomous Driving, SLAM, ROS2
 
 **2023 Pick and Place Challenge**
@@ -100,19 +99,19 @@ _Research Assistant_
 
 ## Leadership and Community Service
 
-**Initiator of WEHEARD Program**
+Initiator of WEHEARD Program
 <span style="float:right;">Jan. 2023 - Apr. 2023</span>
 
-**Captain of CUHK Mandarin Debate Team**
-<span style="float:right;">May 2020 - May 2021</span>
-
-**Founder of 2021 Exemplar Tournament Freshman Mandarin Debate Competition**
+Founder of 2021 Exemplar Tournament Freshman Mandarin Debate Competition
 <span style="float:right;">March 2021 - May 2021</span>
+
+Captain of CUHK Mandarin Debate Team
+<span style="float:right;">May 2020 - May 2021</span>
 
 ## Skills
 
 Programming: C/C++, Python (SciPy, NumPy, PyTorch, CVXPY), MATLAB (Simulink)
 
-Framework: ROS/ROS2 (Gazebo, Rviz, MoveIt!, OMPL), CUDA, Qt, Arduino, Embedded Programming
+Framework: ROS/ROS2 (Gazebo, Rviz, MoveIt!, OMPL), Qt, Arduino, Embedded Programming
 
-Software: Git, SolidWorks, CAD
+Software: Git, Markdown, SolidWorks, CAD
