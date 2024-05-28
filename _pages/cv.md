@@ -22,7 +22,7 @@ redirect_from:
 
   - **Rank 1/128**, Bachelor of Engineering in Mechanical and Automation Engineering
   - Top 5 in Shanghai Jiao Tong University Independent Admissions Exam.
-  - Ranked top 0.3% in the National College Entrance Exam.
+  - Ranked top 0.3% in the National College Entrance Exam (China Gaokao).
   - Elite Scholarship (4 years), Yu To Sang Memorial Scholarship (3 years) and total 16 scholarships and honors over 120k HKD.
     <br />
 
