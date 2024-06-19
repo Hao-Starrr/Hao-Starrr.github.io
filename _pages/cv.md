@@ -23,17 +23,20 @@ redirect_from:
   - **Rank 1/128**, Bachelor of Engineering in Mechanical and Automation Engineering
   - Top 5 in Shanghai Jiao Tong University Independent Admissions Exam.
   - Ranked top 0.3% in the National College Entrance Exam (China Gaokao).
-  - Elite Scholarship (4 years), Yu To Sang Memorial Scholarship (3 years) and total 16 scholarships and honors over 120k HKD.
+  - Elite Scholarship (4 years), Yu To Sang Memorial Scholarship (3 years) and total 16 scholarships and honors.
     <br />
 
-## Research and Intern Experience
+## Start-up
 
-**Fourier Intelligence**
-<span style="float:right;">May 2024 – Aug. 2024</span>  
-_Robotics Engineer_
+**SOMA**
+<span style="float:right;">Jan. 2024 – Present</span>  
+_Co-Founder_
 <span style="float:right;">_Shanghai, China_</span>
 
-- Keywords: Teleoperation
+- Keywords: Teleoperation and Data Collection System
+- Collaborations: Fourier Intelligence, Nvidia
+
+## Research and Intern Experience
 
 **The Fabric Workshop and Museum**
 <span style="float:right;">Dec. 2023 – March 2024</span>  

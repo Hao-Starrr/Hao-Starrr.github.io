@@ -11,13 +11,13 @@ redirect_from:
 
 ## About me
 
-I am currently a master's student at the University of Pennsylvania (UPenn), pursuing my passion for robotics. I completed my bachelor's degree in Mechanical and Automation Engineering at The Chinese University of Hong Kong (CUHK). During my third year, I had the opportunity to exchange to the University of Toronto for a semester. In the subsequent summer, I conducted research at the UTIAS Lab under the guidance of Prof. Jonathan Kelly, investigating certifiable multi-sensor calibration optimization. Additionally, I worked on my final year project on MAV Topological Sparse Graph Generation, supervised by Prof. Chen Benmei.
+I am currently in gapping year for my startup company, SOMA. We aim to build the best and user-friendly teleoperation and data collection system for robots. I was working at GRASP Lab, University of Pennsylvania (UPenn), with Prof. Nadia Figueroa and Prof. Mark Yim, during my robotics master study. I completed my bachelor's degree in Mechanical and Automation Engineering at The Chinese University of Hong Kong (CUHK). During my third year, I conducted research at the University of Toronto Institute for Aerospace Studies (UTIAS) under the guidance of Prof. Jonathan Kelly, investigating certifiable multi-sensor calibration optimization. Additionally, I worked on my final year project on MAV Topological Sparse Graph Generation, supervised by Prof. Chen Benmei.
 
 ## Hobbies
 
 One of my favorite activities is playing Mafia (The Werewolves of Millers Hollow, 狼人杀). I view it not merely as a logic game but as a psychological and dramatic performance. Logic is just one avenue to persuade (or "influence", or perhaps, "c-h-e-a-t") others; there are many other aspects to explore within the game, such as different players, game settings, and the intricacies of psychology. The brilliance of this game lies in the psychological warfare.
 
-I fell in love with Poker after learning probability and statistics. I realized this game is not about gambling, but about self-discipling.
+I fell in love with Poker after learning probability and statistics. This game is not about gambling, but about self-discipling.
 
 ## Why me?
 
