@@ -15,7 +15,7 @@ redirect_from:
 - **University of Pennsylvania, 2023-2025 (Expected)**
 
   - Master of Engineering in Robotics
-  - GPA: 4.0/4.0
+  - Member of GRASP Lab
     <br />
 
 - **The Chinese University of Hong Kong, 2019-2023**
@@ -34,7 +34,7 @@ _Co-Founder_
 <span style="float:right;">_Shanghai, China_</span>
 
 - Keywords: Teleoperation and Data Collection System
-- Collaborations: Fourier Intelligence, Nvidia
+- Collaborations: Fourier Intelligence, Nvidia, Stanford
 
 ## Research and Intern Experience
 

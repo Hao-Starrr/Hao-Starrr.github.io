@@ -37,8 +37,8 @@ author_profile: true
       Stage 2: Pre-build map, interpolating the global path, particle filter localization, PID controller. <br>
       Stage 3: Built the map by SLAM toolbox and refined by OpenCV, time optimized global path, RRT* as local path planning and geometric controller. <br>
       Stage 4: MPC as local planner and controller with kinematic model. <br>
-      Stage 5: To be determined. <br>
-      <strong>What's different from other candidates' projects:</strong> <br>
+      Stage 5: MPC with dynamic side-slipping model. <br>
+      <strong>What's different:</strong> <br>
       1. I implemented a <u>safety layer</u> to avoid collision with other vehicles and pedestrians. <br>
       2. I improved the RRT* with <strong>bias sampling, sample rejection, graph sparsify, delay collision check</strong> and Python computation tricks to <u>decrease the runtime cost by 80%</u>. <br>
     </td>
@@ -49,7 +49,7 @@ author_profile: true
     <td>
       <strong>Quadrotor’s Planning and Control 2024 </strong> <br>   
       This project realized the state estimation, planning, trajectory optimization, and control of a quadrotor from scratch. <br>
-      <strong>What's different from other candidates' projects:</strong> <br>
+      <strong>What's different:</strong> <br>
       1. State estimation: I implemented <strong>quaternion-based</strong> UKF and complementary filter, which <u>increase 20% efficiency</u> compared with rotation matrices implementation. Because of the computational resource limit, I deployed complementary filter on the onboard IMU. <br>
       2. Path planning: A* is used, as well as engineering tricks, like <strong>diagonal heuristic and cross tie breaker</strong>. I am achieving <u>20x planning speed improvement</u> in 3D grid map. Further improvement includes integrating dynamic model with state-space planning, such as State Lattice Search, Kinodynamic RRT*, Hybrid A* , etc..  <br>
       3. Trajectory optimization: a kinodynamic constrained planning algorithm is essentially solving with boundary constrain in the Cartesian space. I implemented <strong>minimum snap</strong> trajectory optimization algorithms based on path that A* gives.  <br>
@@ -61,9 +61,36 @@ author_profile: true
     <td>
       <strong>Pick and Place Challenge 2023</strong><br>
       The project is aim at pick the static and dynamic blocks and stack them. I led my team to win the <u>first place</u> with excellent and stable algorithms. Find the competition recording at <a href="https://www.youtube.com/watch?v=enAke8V9i44">here</a>.<br>
-      <strong>What's different from other candidates' projects:</strong> <br>
+      <strong>What's different:</strong> <br>
       1. It has a robust pose matching algorithm: i.e., it is always desired that the end effector grabs the block in a certain pose (always with the camera facing forward) <u>even with large error in the pose estimation</u>. <br>
       2. Trajectory planning: I used <strong>RRT* + offline interpolation + velocity profile planning + lookup table speedup</strong>, while other candidates used hardcode position. <u>My method doubled the speed</u>. <br>
+    </td>
+  </tr>
+
+</table>
+
+## Reinforcement learning
+
+<table class="myTable">
+
+  <tr>
+    <td width="25%"><img src="../images/ppo.gif" width="800" /></td>
+    <td>
+    <strong>PPO in Continuous Control 2024</strong><br>
+      I implemented the PPO and related AC algorithms for continuous control tasks. <br>
+      <strong>What's different:</strong> <br>
+      I tried tricks to improve the performance, showing the implementation matters and a few of them are valid in the walker environment. <br>
+      They are Advantage, State, Reward Normalization (positive); Reward Scaling (negative); Policy Entropy (negative); Learning Rate Decay (positive); Gradient clip (positive); Orthogonal Initialization (neutral); Adam Optimizer Epsilon Parameter (neutral); Tanh Activation Function (positive). <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%"><img src="../images/PolicyIteration.gif" width="800" /></td>
+    <td>
+    <strong>Policy Iteration Planning 2022</strong><br>
+      The robot moving in grid map with obstacles and rewards. We can find the optimal trajectory by using policy iteration algorithm. In every step, we update the cost/reward and policy of the robot. <br>
+      The robot can move in four directions (north, east, west, and south) with some stochasticity. The goal is to maximize the expected discounted reward over an infinite time horizon.<br>
+      By iterating enough times, we can find the optimal policy that maximizes the expected discounted reward in every place to guide the movement. <br>
     </td>
   </tr>
 
@@ -114,22 +141,6 @@ author_profile: true
     <td>
       <strong>Augmented Reality 2023</strong><br>
       I rendered the virtual objects of the drill and the bottle in a video by first estimating the camera pose using the info on the AprilTag, using either P3P (3-point correspondence) or PnP (n-point correspondence) approach from scratch (nonOpenCV implementation).<br>
-    </td>
-  </tr>
-
-</table>
-
-## Decision
-
-<table class="myTable">
-
-  <tr>
-    <td width="25%"><img src="../images/PolicyIteration.gif" width="800" /></td>
-    <td>
-    <strong>Policy Iteration Planning 2022</strong><br>
-      The robot moving in grid map with obstacles and rewards. We can find the optimal trajectory by using policy iteration algorithm. In every step, we update the cost/reward and policy of the robot. <br>
-      The robot can move in four directions (north, east, west, and south) with some stochasticity. The goal is to maximize the expected discounted reward over an infinite time horizon.<br>
-      By iterating enough times, we can find the optimal policy that maximizes the expected discounted reward in every place to guide the movement. <br>
     </td>
   </tr>
 
