@@ -34,7 +34,7 @@ _Co-Founder_
 <span style="float:right;">_Shanghai, China_</span>
 
 - Keywords: Teleoperation and Data Collection System
-- Collaborations: Fourier Intelligence, Nvidia, Stanford
+- Collaborations: Fourier Intelligence
 
 ## Research and Intern Experience
 
