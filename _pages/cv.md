@@ -21,7 +21,7 @@ redirect_from:
 - **The Chinese University of Hong Kong, 2019-2023**
 
   - **Rank 1/128**, Bachelor of Engineering in Mechanical and Automation Engineering
-  - Top 5 in Shanghai Jiao Tong University Independent Admissions Exam.
+  - Top 5 in Shanghai Jiao Tong University Independent Admissions Exam (Physics).
   - Ranked top 0.3% in the National College Entrance Exam (China Gaokao).
   - Elite Scholarship (4 years), Yu To Sang Memorial Scholarship (3 years) and total 16 scholarships and honors.
     <br />
@@ -47,9 +47,10 @@ _Robotics Engineer, Part-Time_
 
 **Hong Kong Centre for Logistics Robotics**
 <span style="float:right;">Oct. 2022 – Mar. 2023</span>  
-_Software Engineer Intern_
+_Robotics Researcher_
 <span style="float:right;">_Hong Kong_</span>
 
+- Unmanned Systems Research Group
 - Keywords: Planning, Map Serialization, GPU Mapping, Topological Graphs Generation, C++
 
 **University of Toronto Institute for Aerospace Studies**
@@ -57,6 +58,7 @@ _Software Engineer Intern_
 _Research Assistant_
 <span style="float:right;">_Toronto, Canada_</span>
 
+- STARS Laboratory
 - Keywords: Hand-Eye Calibration, CVXPY, Point Cloud Registration, ORB-SLAM3, Gradient Descent
 
 **BlockStudio Qianzhi Technology Ltd.**
