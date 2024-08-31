@@ -26,7 +26,7 @@ redirect_from:
   - Elite Scholarship (4 years), Yu To Sang Memorial Scholarship (3 years) and total 16 scholarships and honors.
     <br />
 
-## Start-up
+## Work Experience
 
 **SOMA**
 <span style="float:right;">Jan. 2024 – Present</span>  
@@ -34,7 +34,7 @@ _Co-Founder_
 <span style="float:right;">_Shanghai, China_</span>
 
 - Keywords: Teleoperation and Data Collection System
-- Collaborations: Fourier Intelligence
+- Collaborations: Fourier Intelligence, Open-Loong
 
 ## Research and Intern Experience
 
@@ -112,11 +112,3 @@ Founder of 2021 Exemplar Tournament Freshman Mandarin Debate Competition
 
 Captain of CUHK Mandarin Debate Team
 <span style="float:right;">May 2020 - May 2021</span>
-
-## Skills
-
-Programming: C/C++, Python (SciPy, NumPy, PyTorch, CVXPY), MATLAB (Simulink)
-
-Framework: ROS/ROS2 (Gazebo, Rviz, MoveIt!, OMPL), Qt, Arduino, Embedded Programming
-
-Software: Git, Markdown, SolidWorks, CAD
