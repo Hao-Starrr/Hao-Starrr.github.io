@@ -48,7 +48,7 @@ author_profile: true
     <td width="25%"><img src="../images/uav.gif" width="800" /></td>
     <td>
       <strong>Quadrotor’s Planning and Control 2024 </strong> <br>   
-      This project realized the state estimation, planning, trajectory optimization, and control of a quadrotor from scratch. <br>
+      This project realized the state estimation, planning, trajectory optimization, and control of a quadrotor from scratch. Find the code <a href="https://github.com/Hao-Starrr/quadrotor-planning-state-estimation-control">here</a>.<br>
       <strong>What's different:</strong> <br>
       1. State estimation: I implemented <strong>quaternion-based</strong> UKF and complementary filter, which <u>increase 20% efficiency</u> compared with rotation matrices implementation. Because of the computational resource limit, I deployed complementary filter on the onboard IMU. <br>
       2. Path planning: A* is used, as well as engineering tricks, like <strong>diagonal heuristic and cross tie breaker</strong>. I am achieving <u>20x planning speed improvement</u> in 3D grid map. Further improvement includes integrating dynamic model with state-space planning, such as State Lattice Search, Kinodynamic RRT*, Hybrid A* , etc..  <br>
@@ -77,14 +77,14 @@ author_profile: true
     <td width="25%"><img src="../images/ppo.gif" width="800" /></td>
     <td>
     <strong>PPO in Continuous Control 2024</strong><br>
-      I implemented the PPO and related AC algorithms for continuous control tasks. <br>
+      I implemented the PPO and related AC algorithms for continuous control tasks. Find the code <a href="https://github.com/Hao-Starrr/PPO-in-dm_control">here</a>.<br>
       <strong>What's different:</strong> <br>
       I tried tricks to improve the performance, showing the implementation matters and a few of them are valid in the walker environment. <br>
       They are Advantage, State, Reward Normalization (positive); Reward Scaling (negative); Policy Entropy (negative); Learning Rate Decay (positive); Gradient clip (positive); Orthogonal Initialization (neutral); Adam Optimizer Epsilon Parameter (neutral); Tanh Activation Function (positive). <br>
     </td>
   </tr>
 
-  <tr>
+  <!-- <tr>
     <td width="25%"><img src="../images/PolicyIteration.gif" width="800" /></td>
     <td>
     <strong>Policy Iteration Planning 2022</strong><br>
@@ -92,7 +92,7 @@ author_profile: true
       The robot can move in four directions (north, east, west, and south) with some stochasticity. The goal is to maximize the expected discounted reward over an infinite time horizon.<br>
       By iterating enough times, we can find the optimal policy that maximizes the expected discounted reward in every place to guide the movement. <br>
     </td>
-  </tr>
+  </tr> -->
 
 </table>
 
@@ -104,7 +104,7 @@ author_profile: true
     <td width="25%"><img src="../images/vo.gif" width="800" /></td>
     <td>
       <strong>Mono ORB Visual Odometry 2023</strong><br>
-      A minimum python version mono visual odometry. <br>
+      A minimum python version mono visual odometry. Find the code <a href="https://github.com/Hao-Starrr/Python-VO">here</a>.<br>
       Pipeline: <br>
       1. Frame Processing: Converts each frame to grayscale to simplify and expedite subsequent feature detection and matching steps.<br>
       2. Feature Extraction and Matching: Leverages ORB for efficient feature detection and FLANN with LSH for fast, accurate feature matching, optimizing the identification of corresponding points across frames.<br>
@@ -115,7 +115,7 @@ author_profile: true
     </td>
   </tr>
 
-  <tr>
+  <!-- <tr>
     <td><img src="../images/stereo.gif" width="800" /></td>
     <td>
     <strong>Stereo Vision 2023</strong><br>
@@ -142,7 +142,7 @@ author_profile: true
       <strong>Augmented Reality 2023</strong><br>
       I rendered the virtual objects of the drill and the bottle in a video by first estimating the camera pose using the info on the AprilTag, using either P3P (3-point correspondence) or PnP (n-point correspondence) approach from scratch (nonOpenCV implementation).<br>
     </td>
-  </tr>
+  </tr> -->
 
 </table>
 
@@ -158,7 +158,7 @@ author_profile: true
     </td>
   </tr>
 
-  <tr>
+  <!-- <tr>
     <td><img src="../images/slam.png" width="800" /></td>
     <td>
       <strong>Differential Wheeled Robot Lidar SLAM in Indoor Environment 2022</strong><br>
@@ -166,11 +166,11 @@ author_profile: true
       • Adapted <strong>MPC</strong> controller in dynamic state lattice following the trajectory, visualized by ROS <strong>Rviz</strong>.<br>
       • Implement <strong>EKF</strong> against particle filter as localization and achieve 80% time decrease and higher accuracy.<br>
     </td>
-  </tr>
+  </tr> -->
 
 </table>
 
-## Planning
+<!-- ## Planning
 
 <table class="myTable">
 
@@ -183,7 +183,7 @@ author_profile: true
       • Developed algorithm visualization GUI interface interact with mouse clicking by <strong>JAVA</strong>.<br>
     </td>
   </tr>
-</table>
+</table> -->
 
 ## Control and Hardware
 
