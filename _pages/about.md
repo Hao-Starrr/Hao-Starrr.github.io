@@ -19,6 +19,7 @@ One of my favorite activities is playing Mafia (The Werewolves of Millers Hollow
 
 I fell in love with Poker after learning probability and statistics. This game is not about gambling, but about self-discipling.
 
+<!--
 ## Why me?
 
 ### Curiosity
@@ -57,8 +58,8 @@ I valued this experience, as well as the logical training it provides.
 
 ### INTJ
 
-Very close to ENTJ, but very far from INFJ. I bet T is 99%.
+Very close to ENTJ, but very far from INFJ.
 
 Here is my T zone: [https://medium.com/@haostarrr](https://medium.com/@haostarrr)
 
-<br />
+<br /> -->
