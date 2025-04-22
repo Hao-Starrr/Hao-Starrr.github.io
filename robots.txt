@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hao-starrr.github.io/sitemap.xml

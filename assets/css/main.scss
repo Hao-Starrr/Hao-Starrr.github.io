@@ -39,3 +39,13 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Mermaid diagram styles */
+.mermaid {
+  text-align: center;
+  margin: 2em 0;
+}
+.mermaid svg {
+  max-width: 100%;
+  height: auto;
+}

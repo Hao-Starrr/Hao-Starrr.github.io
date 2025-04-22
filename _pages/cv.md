@@ -28,8 +28,15 @@ redirect_from:
 
 ## Work Experience
 
+**AgiBot**
+<span style="float:right;">Oct. 2025 – Present</span>  
+_Team Manager_
+<span style="float:right;">_Shanghai, China_</span>
+
+- Keywords: Secrets
+
 **SOMA**
-<span style="float:right;">Jan. 2024 – Present</span>  
+<span style="float:right;">Jan. 2024 – Sept. 2024</span>  
 _Co-Founder_
 <span style="float:right;">_Shanghai, China_</span>
 

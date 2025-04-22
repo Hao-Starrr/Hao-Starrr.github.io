@@ -115,7 +115,7 @@ author_profile: true
     </td>
   </tr>
 
-  <!-- <tr>
+  <tr>
     <td><img src="../images/stereo.gif" width="800" /></td>
     <td>
     <strong>Stereo Vision 2023</strong><br>
@@ -142,7 +142,7 @@ author_profile: true
       <strong>Augmented Reality 2023</strong><br>
       I rendered the virtual objects of the drill and the bottle in a video by first estimating the camera pose using the info on the AprilTag, using either P3P (3-point correspondence) or PnP (n-point correspondence) approach from scratch (nonOpenCV implementation).<br>
     </td>
-  </tr> -->
+  </tr>
 
 </table>
 
@@ -158,7 +158,7 @@ author_profile: true
     </td>
   </tr>
 
-  <!-- <tr>
+  <tr>
     <td><img src="../images/slam.png" width="800" /></td>
     <td>
       <strong>Differential Wheeled Robot Lidar SLAM in Indoor Environment 2022</strong><br>
@@ -166,11 +166,11 @@ author_profile: true
       • Adapted <strong>MPC</strong> controller in dynamic state lattice following the trajectory, visualized by ROS <strong>Rviz</strong>.<br>
       • Implement <strong>EKF</strong> against particle filter as localization and achieve 80% time decrease and higher accuracy.<br>
     </td>
-  </tr> -->
+  </tr>
 
 </table>
 
-<!-- ## Planning
+## Planning
 
 <table class="myTable">
 
@@ -183,7 +183,7 @@ author_profile: true
       • Developed algorithm visualization GUI interface interact with mouse clicking by <strong>JAVA</strong>.<br>
     </td>
   </tr>
-</table> -->
+</table>
 
 ## Control and Hardware
 
