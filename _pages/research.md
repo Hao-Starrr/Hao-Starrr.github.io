@@ -17,9 +17,9 @@ flowchart TD
   B -->|Insufficient data volume| C[AgibotWorld Dataset]
   C -->|Slow data collection speed| D[High-Performance Teleoperation Control Framework]
 
-  D -->|Teleoperation not impressive| E[🔒 secret]
-  D -->|Human-robot interaction unnatural| G[🔒 secret]
-  D -->|Human cost in data collection too high| F[🔒 secret]
+  D -->|Teleoperation not impressive| E[secret]
+  D -->|Human-robot interaction unnatural| G[secret]
+  D -->|Human cost in data collection too high| F[secret]
 </div>
 
 <!-- ## Publications -->
