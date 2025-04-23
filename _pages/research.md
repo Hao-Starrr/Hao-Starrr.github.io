@@ -11,7 +11,7 @@ redirect_from:
 ## Research Motivation
 
 <div class="mermaid">
-graph TD
+flowchart TD
   A[Shared Autonomy for Grasping]
   A -->|Teleoperation was unintuitive| B[iDP3 + Data Collection System on Humanoid]
   B -->|Insufficient data volume| C[AgibotWorld Dataset]
@@ -21,7 +21,6 @@ graph TD
   D -->|Human-robot interaction unnatural| G[🔒 secret]
   D -->|Human cost in data collection too high| F[🔒 secret]
 </div>
-
 
 <!-- ## Publications -->
 
