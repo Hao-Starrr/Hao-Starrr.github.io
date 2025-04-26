@@ -8,18 +8,29 @@ redirect_from:
   - /publications
 ---
 
-## Research Motivation
+> 我毫无疑问地相信 AI+机器人 将迅速在人类社会引起剧变，但这个剧变是缓慢的。  
+> 迅速 指的是和人类二十万年进化史和五千年文明史比起来，这段时间就像日蚀之于白昼；和一个人的创造力的黄金时期比起来，这是一生仅有的一次机会。  
+> 缓慢 指的是变化是一步步发生的，AI深度融入各行各业，润物无声。我们可以做一个长期主义者，日拱一卒。
+
+## Research Progression Map
 
 <div class="mermaid">
 flowchart TD
-  A[Shared Autonomy for Grasping]
-  A -->|Teleoperation was unintuitive| B[iDP3 + Data Collection System on Humanoid]
-  B -->|Insufficient data volume| C[AgibotWorld Dataset]
-  C -->|Slow data collection speed| D[High-Performance Teleoperation Control Framework]
 
-  D -->|Teleoperation not impressive| E[secret]
-  D -->|Human-robot interaction unnatural| G[secret]
-  D -->|Human cost in data collection too high| F[secret]
+  A["Shared Autonomy for grasping at GRASP"]
+
+  A -->|Teleoperation was unintuitive| B["iDP3 + Data Collection System on Humanoid"]
+
+  B -->|Insufficient data volume| C["AgibotWorld Dataset"]
+
+  C -->|Slow data collection speed| D["High-Performance Teleoperation Motion Control Framework"]
+
+  D -->|Product not impressive| E["🔒 secret"]
+
+  D -->|Human-robot interaction unnatural| F["🔒 secret"]
+
+  D -->|Human cost in data collection too high| G["🔒 secret"]
+  
 </div>
 
 <!-- ## Publications -->

@@ -29,7 +29,7 @@ redirect_from:
 ## Work Experience
 
 **AgiBot**
-<span style="float:right;">Oct. 2025 – Present</span>  
+<span style="float:right;">Oct. 2024 – Present</span>  
 _Team Manager_
 <span style="float:right;">_Shanghai, China_</span>
 
@@ -47,7 +47,7 @@ _Co-Founder_
 
 **The Fabric Workshop and Museum**
 <span style="float:right;">Dec. 2023 – March 2024</span>  
-_Robotics Engineer, Part-Time_
+_Contractor, Part-Time_
 <span style="float:right;">_Philadelphia, United States_</span>
 
 - Keywords: Stewart Platform, PID Position Control, Polynomial Interpolation, Vicon
