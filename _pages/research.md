@@ -16,7 +16,7 @@ redirect_from:
 
 <div class="mermaid">
 flowchart TD
-  A["Shared Autonomy for grasping at GRASP"]
+  A --> B
 </div>
 
 <!-- ## Publications -->
