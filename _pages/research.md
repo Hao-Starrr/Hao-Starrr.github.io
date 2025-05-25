@@ -14,10 +14,12 @@ redirect_from:
 
 ## Research Progression Map
 
+{% raw %}
 <div class="mermaid">
 flowchart TD
   A --> B
 </div>
+{% endraw %}
 
 <!-- ## Publications -->
 
