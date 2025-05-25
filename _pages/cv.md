@@ -12,7 +12,7 @@ redirect_from:
 
 ## Education
 
-- **University of Pennsylvania, 2023-2025 (Expected)**
+- **University of Pennsylvania, 2023-2024**
 
   - Master of Engineering in Robotics
   - Member of GRASP Lab
@@ -33,7 +33,7 @@ redirect_from:
 _Team Manager_
 <span style="float:right;">_Shanghai, China_</span>
 
-- Keywords: Secrets
+- Keywords: Teleoperation and Interactive Imitation Learning
 
 **SOMA**
 <span style="float:right;">Jan. 2024 – Sept. 2024</span>  
@@ -66,7 +66,7 @@ _Research Assistant_
 <span style="float:right;">_Toronto, Canada_</span>
 
 - STARS Laboratory
-- Keywords: Hand-Eye Calibration, CVXPY, Point Cloud Registration, ORB-SLAM3, Gradient Descent
+- Keywords: Hand-Eye Calibration, CVXPY, Point Cloud Registration, ORB-SLAM3
 
 **BlockStudio Qianzhi Technology Ltd.**
 <span style="float:right;">June 2021 – Sept. 2021</span>  

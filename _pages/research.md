@@ -16,21 +16,7 @@ redirect_from:
 
 <div class="mermaid">
 flowchart TD
-
   A["Shared Autonomy for grasping at GRASP"]
-
-  A -->|Teleoperation was unintuitive| B["iDP3 + Data Collection System on Humanoid"]
-
-  B -->|Insufficient data volume| C["AgibotWorld Dataset"]
-
-  C -->|Slow data collection speed| D["High-Performance Teleoperation Motion Control Framework"]
-
-  D -->|Product not impressive| E["🔒 secret"]
-
-  D -->|Human-robot interaction unnatural| F["🔒 secret"]
-
-  D -->|Human cost in data collection too high| G["🔒 secret"]
-  
 </div>
 
 <!-- ## Publications -->

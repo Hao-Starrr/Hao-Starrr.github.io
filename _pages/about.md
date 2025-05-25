@@ -11,7 +11,10 @@ redirect_from:
 
 ## About me
 
-I am currently in gapping year for my startup company, SOMA. We aim to build the best and user-friendly teleoperation and data collection system for robots. I was working at GRASP Lab, University of Pennsylvania (UPenn), with Prof. Nadia Figueroa and Prof. Mark Yim, during my robotics master study. I completed my bachelor's degree in Mechanical and Automation Engineering at The Chinese University of Hong Kong (CUHK). During my third year, I have the chance exchange to University of Toronto Institute for Aerospace Studies (UTIAS) and research under the guidance of Prof. Jonathan Kelly, investigating certifiable multi-sensor calibration optimization. Additionally, I worked on my final year project on MAV Topological Sparse Graph Generation, supervised by Prof. Chen Benmei.
+
+I am currently working at AgiBot. My focus is on deploying robots in factory environments to collect real-world data. The ultimate goal is to develop a human-in-the-loop control system that integrates teleoperation with learning-based autonomy, empowering humans with mechanical bodies that exceed natural physical limitations.
+
+Before that, I had a startup company, SOMA, aiming to build the best and user-friendly teleoperation and data collection system for robots. I was working at GRASP Lab, University of Pennsylvania (UPenn), with Prof. Nadia Figueroa and Prof. Mark Yim, during my robotics master study. I completed my bachelor's degree in Mechanical and Automation Engineering at The Chinese University of Hong Kong (CUHK).
 
 ## Hobbies
 
