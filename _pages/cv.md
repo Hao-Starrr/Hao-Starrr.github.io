@@ -33,7 +33,7 @@ redirect_from:
 _Team Manager_
 <span style="float:right;">_Shanghai, China_</span>
 
-- Keywords: Teleoperation and Interactive Imitation Learning
+- Keywords: Interactive Imitation Learning and Shared Autonomy
 
 **SOMA**
 <span style="float:right;">Jan. 2024 – Sept. 2024</span>  
